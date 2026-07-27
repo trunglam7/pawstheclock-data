@@ -1,106 +1,110 @@
-[
-    {
-        "name": "Jolene",
-        "breed": "TERRIER",
-        "comments": "***Deadline. Needs exit from shelter by thur 7/9 5pm*** severe medical can you help?",
-        "id": "A1926057",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1926057",
-        "image_link": "https://24petconnect.com/image/700837757"
-    },
-    {
-        "name": "Sparkler",
-        "breed": "Poodle - Miniature",
-        "comments": "Medical. Needs immediate exit transferdas@rivco.Org",
-        "id": "A1925904",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925904",
-        "image_link": "https://24petconnect.com/image/700940536"
-    },
-    {
-        "name": "Pearl",
-        "breed": "SHEPHERD",
-        "comments": "Medical - fibia fracture. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org",
-        "id": "A1925626",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925626",
-        "image_link": "https://24petconnect.com/image/701279520"
-    },
-    {
-        "name": "Angus Boy",
-        "breed": "American Pit Bull Terrier",
-        "comments": "Medical. Hit by car needs exit transferdas@rivco.Org",
-        "id": "A1914849",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1914849",
-        "image_link": "https://24petconnect.com/image/700576546"
-    },
-    {
-        "name": "Lightning",
-        "breed": "German Shepherd Dog",
-        "comments": "Severe medical needs immediate exit transferdas@rivco.Org",
-        "id": "A1769684",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1769684",
-        "image_link": "https://24petconnect.com/image/700986696"
-    },
-    {
-        "name": "Olivia",
-        "breed": "Chihuahua - Smooth Coated",
-        "comments": "Medical - femur fracture. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org",
-        "id": "A1924837",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1924837",
-        "image_link": "https://24petconnect.com/image/699905140"
-    },
-    {
-        "name": "Remi",
-        "breed": "SPANIEL",
-        "comments": "***Deadline. Must exit shelter by thursday 7/09 5pm*** behavior can you help Remi?",
-        "id": "A1895705",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1895705",
-        "image_link": "https://24petconnect.com/image/697572314"
-    },
-    {
-        "name": "Jessie",
-        "breed": "German Shepherd Dog",
-        "comments": "Mother nursing puppies",
-        "id": "A1921694",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1921694",
-        "image_link": "https://24petconnect.com/image/698379190"
-    },
-    {
-        "name": "Athena",
-        "breed": "German Shepherd Dog",
-        "comments": "Litter of pups nursing with mom (a1921694)",
-        "id": "A1921695",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1921695",
-        "image_link": "https://24petconnect.com/image/700847472"
-    },
-    {
-        "name": "Blue",
-        "breed": "German Shepherd Dog",
-        "comments": "Behavior can you help Blue??",
-        "id": "A1919867",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1919867",
-        "image_link": "https://24petconnect.com/image/697446183"
-    },
-    {
-        "name": "Shirley",
-        "breed": "Pit Bull Terrier",
-        "comments": "***Deadline. Must exit shelter by wednesday 7/08 5pm*** behavior can you help Shirley??",
-        "id": "A1919380",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1919380",
-        "image_link": ""
-    },
-    {
-        "name": "Mcnugget",
-        "breed": "SHEPHERD",
-        "comments": "***Deadline. Must exit shelter by wednesday 07/01 5pm*** behavior can you help Mcnugget?",
-        "id": "A1918674",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1918674",
-        "image_link": ""
-    },
-    {
-        "name": "Spud",
-        "breed": "Pit Bull Terrier",
-        "comments": "***Deadline. Must exit shelter by wednesday 7/08 5pm*** behavior. Can you help Spud??",
-        "id": "A1917193",
-        "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1917193",
-        "image_link": ""
-    }
-]
+{
+    "scraped_at": "2026-07-26T17:51:41",
+    "total_animals": 13,
+    "animals": [
+        {
+            "name": "Jolene",
+            "breed": "TERRIER",
+            "comments": "***Deadline. Needs exit from shelter by thur 7/9 5pm*** severe medical can you help?",
+            "id": "A1926057",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1926057",
+            "image_link": "https://24petconnect.com/image/700837757"
+        },
+        {
+            "name": "Sparkler",
+            "breed": "Poodle - Miniature",
+            "comments": "Medical. Needs immediate exit transferdas@rivco.Org",
+            "id": "A1925904",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925904",
+            "image_link": "https://24petconnect.com/image/700940536"
+        },
+        {
+            "name": "Pearl",
+            "breed": "SHEPHERD",
+            "comments": "Medical - fibia fracture. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org",
+            "id": "A1925626",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925626",
+            "image_link": "https://24petconnect.com/image/701279520"
+        },
+        {
+            "name": "Angus Boy",
+            "breed": "American Pit Bull Terrier",
+            "comments": "Medical. Hit by car needs exit transferdas@rivco.Org",
+            "id": "A1914849",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1914849",
+            "image_link": "https://24petconnect.com/image/700576546"
+        },
+        {
+            "name": "Lightning",
+            "breed": "German Shepherd Dog",
+            "comments": "Severe medical needs immediate exit transferdas@rivco.Org",
+            "id": "A1769684",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1769684",
+            "image_link": "https://24petconnect.com/image/700986696"
+        },
+        {
+            "name": "Olivia",
+            "breed": "Chihuahua - Smooth Coated",
+            "comments": "Medical - femur fracture. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org",
+            "id": "A1924837",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1924837",
+            "image_link": "https://24petconnect.com/image/699905140"
+        },
+        {
+            "name": "Remi",
+            "breed": "SPANIEL",
+            "comments": "***Deadline. Must exit shelter by thursday 7/09 5pm*** behavior can you help Remi?",
+            "id": "A1895705",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1895705",
+            "image_link": "https://24petconnect.com/image/697572314"
+        },
+        {
+            "name": "Jessie",
+            "breed": "German Shepherd Dog",
+            "comments": "Mother nursing puppies",
+            "id": "A1921694",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1921694",
+            "image_link": "https://24petconnect.com/image/698379190"
+        },
+        {
+            "name": "Athena",
+            "breed": "German Shepherd Dog",
+            "comments": "Litter of pups nursing with mom (a1921694)",
+            "id": "A1921695",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1921695",
+            "image_link": "https://24petconnect.com/image/700847472"
+        },
+        {
+            "name": "Blue",
+            "breed": "German Shepherd Dog",
+            "comments": "Behavior can you help Blue??",
+            "id": "A1919867",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1919867",
+            "image_link": "https://24petconnect.com/image/697446183"
+        },
+        {
+            "name": "Shirley",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by wednesday 7/08 5pm*** behavior can you help Shirley??",
+            "id": "A1919380",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1919380",
+            "image_link": ""
+        },
+        {
+            "name": "Mcnugget",
+            "breed": "SHEPHERD",
+            "comments": "***Deadline. Must exit shelter by wednesday 07/01 5pm*** behavior can you help Mcnugget?",
+            "id": "A1918674",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1918674",
+            "image_link": ""
+        },
+        {
+            "name": "Spud",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by wednesday 7/08 5pm*** behavior. Can you help Spud??",
+            "id": "A1917193",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1917193",
+            "image_link": ""
+        }
+    ]
+}

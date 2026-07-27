@@ -8,6 +8,7 @@ import re
 from pydantic import BaseModel, Field
 from typing import List
 import instructor
+from datetime import datetime  # Added import for timestamp
 
 # 1. Define the schema structure using Pydantic
 class AnimalRecord(BaseModel):
@@ -19,7 +20,6 @@ class AnimalRecord(BaseModel):
     image_link: str = Field(description="The absolute image URL link. If missing, capture it as an empty string.")
 
 # 2. Patch your Ollama client using instructor
-# For llama3.1, instructor will automatically utilize native tool/JSON parsing modes
 client = instructor.from_provider("ollama/llama3.1:8b", mode=instructor.Mode.JSON)
 
 def fetch_and_clean_shelter_data(url):
@@ -57,7 +57,6 @@ def fetch_and_clean_shelter_data(url):
         seen_images.add(img_src)
 
         # Step 2: Climb up the DOM tree to find the animal's contextual wrapper
-        # We start looking at the parent, grandparent, etc., up to 4 levels high
         parent_box = None
         current_element = img
         
@@ -66,25 +65,21 @@ def fetch_and_clean_shelter_data(url):
             if not current_element:
                 break
             
-            # If the block contains text commonly associated with a listing, it's our container
             box_text = current_element.get_text(" ", strip=True)
             if any(kwd in box_text.lower() for kwd in ["id:", "id#", "breed", "age", "gender", "adopt", "name"]):
                 parent_box = current_element
-                break # Found the closest container holding both image and data
+                break 
         
-        # Fallback: If no smart text container was found, evaluate the immediate parent element
         if not parent_box:
             parent_box = img.parent
 
         # Step 3: Extract the Profile Link using proximity
         profile_link = "No Link Found"
-        # Search inside our smart container first
         inner_a = parent_box.find('a', href=True) if parent_box else None
         
         if inner_a:
             profile_link = urljoin(url, inner_a['href'])
         else:
-            # If it's a split column layout, look horizontally at adjacent elements
             sibling = img.find_next('a', href=True) or img.find_previous('a', href=True)
             if sibling:
                 profile_link = urljoin(url, sibling['href'])
@@ -92,16 +87,12 @@ def fetch_and_clean_shelter_data(url):
         # Step 4: Extract the Text block using proximity
         text_details = ""
         if parent_box:
-            # Gather text, separating tags with clean spaces
             text_details = parent_box.get_text(" ", strip=True)
         else:
-            # Fallback to the nearest text block string
             text_details = img.find_next(text=True) or "No details extracted"
 
-        # Clean up excess whitespace strings
         text_details = " ".join(text_details.split())
         
-        # Optional: Limit block size if it accidentally grabbed the entire webpage container
         if len(text_details) > 400:
             text_details = text_details[:400] + "..."
 
@@ -124,7 +115,6 @@ if cleaned_html_text:
     print(f"\n🤖 [STAGE 2] Extracting high-urgency animals via Instructor...", flush=True)
     
     try:
-        # Without stream=True, this blocks until the entire list is fully built and validated
         extracted_animals = client.chat.completions.create(
             model='llama3.1:8b',
             response_model=List[AnimalRecord],
@@ -144,13 +134,20 @@ if cleaned_html_text:
             timeout=None
         )
 
-        # Convert the verified Pydantic objects directly into standard dictionaries
+        # Convert Pydantic objects to dictionaries
         all_animals = [animal.model_dump() for animal in extracted_animals]
+
+        # Structure the final payload with metadata (timestamp + records)
+        output_data = {
+            "scraped_at": datetime.now().isoformat(),
+            "total_animals": len(all_animals),
+            "animals": all_animals
+        }
 
         # Save to JSON file
         output_filename = "shelter_animals.json"
         with open(output_filename, "w", encoding="utf-8") as f:
-            json.dump(all_animals, f, indent=4, ensure_ascii=False)
+            json.dump(output_data, f, indent=4, ensure_ascii=False)
             
         print(f"✅ Extraction complete! Found {len(all_animals)} high-risk animals.")
         print(f"📁 Data cleanly exported to '{output_filename}'")
