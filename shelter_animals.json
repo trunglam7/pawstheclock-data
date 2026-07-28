@@ -1,67 +1,171 @@
 {
-    "scraped_at": "2026-07-26T17:51:41",
-    "total_animals": 13,
+    "scraped_at": "2026-07-26T20:14:28.928631",
+    "total_animals": 30,
     "animals": [
         {
-            "name": "Jolene",
-            "breed": "TERRIER",
-            "comments": "***Deadline. Needs exit from shelter by thur 7/9 5pm*** severe medical can you help?",
-            "id": "A1926057",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1926057",
-            "image_link": "https://24petconnect.com/image/700837757"
-        },
-        {
-            "name": "Sparkler",
-            "breed": "Poodle - Miniature",
-            "comments": "Medical. Needs immediate exit transferdas@rivco.Org",
-            "id": "A1925904",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925904",
-            "image_link": "https://24petconnect.com/image/700940536"
-        },
-        {
-            "name": "Pearl",
+            "name": "Fiona",
             "breed": "SHEPHERD",
-            "comments": "Medical - fibia fracture. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org",
-            "id": "A1925626",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925626",
-            "image_link": "https://24petconnect.com/image/701279520"
+            "comments": "Medical - nursing underage puppies. Rescues please visit in person or email transferdas@rivco.Org Days Out : 9 Link : Click for Details ViewType : adopt",
+            "id": "A1928177",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1928177",
+            "image_link": "https://24petconnect.com/image/703221330"
         },
         {
-            "name": "Angus Boy",
+            "name": "Shrek",
+            "breed": "SHEPHERD",
+            "comments": "Underage puppies nursing with mom (\"fiona\" a1928177). Rescues please visit in person or email transferdas@rivco.Org Days Out : 9 Link : Click for Details ViewType : adopt",
+            "id": "A1928178",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1928178",
+            "image_link": "https://24petconnect.com/image/703220062"
+        },
+        {
+            "name": "Tampa",
+            "breed": "Pit Bull Terrier",
+            "comments": "Medical/behavior - large healing laceration, involved in death of chickens/goats. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out : 11 Link : Click for Details ViewType : adopt",
+            "id": "A1927785",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1927785",
+            "image_link": "https://24petconnect.com/image/702292483"
+        },
+        {
+            "name": "Marty",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by thursday 07/30 5pm*** behavior - Marty isnt doing well in the kennel environment. Needs an adopter or rescue. Has previous bite history transferdas@rivco.Org Days Out : 12 Link : Click for Details ViewType : adopt",
+            "id": "A1892466",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1892466",
+            "image_link": "https://24petconnect.com/image/702083963"
+        },
+        {
+            "name": "Kilo",
+            "breed": "Belgian Malinois",
+            "comments": "***Deadline. Must exit shelter by wednesday 07/29 5pm*** behavior - not doing well in kennel environment. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out : 14 Link : Click for Details ViewType : adopt",
+            "id": "A1780699",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1780699",
+            "image_link": "https://24petconnect.com/image/703491471"
+        },
+        {
+            "name": "Mr. Bones",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by thursday 07/30 5pm*** Mr. bones is declining in the shelter environment. Can you help Mr. bones??? Transferdas@rivco.Org Days Out : 16 Link : Click for Details ViewType : adopt",
+            "id": "A1927030",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1927030",
+            "image_link": "https://24petconnect.com/image/703487550"
+        },
+        {
+            "name": "Ox",
             "breed": "American Pit Bull Terrier",
-            "comments": "Medical. Hit by car needs exit transferdas@rivco.Org",
-            "id": "A1914849",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1914849",
-            "image_link": "https://24petconnect.com/image/700576546"
+            "comments": "***Deadline. Must exit shelter by tuesday 7/21 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transf...",
+            "id": "A1926889",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1926889",
+            "image_link": "https://24petconnect.com/image/702564124"
         },
         {
-            "name": "Lightning",
-            "breed": "German Shepherd Dog",
-            "comments": "Severe medical needs immediate exit transferdas@rivco.Org",
-            "id": "A1769684",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1769684",
-            "image_link": "https://24petconnect.com/image/700986696"
+            "name": "Beach",
+            "breed": "Pit Bull Terrier",
+            "comments": "Medical - nursing underage puppies. Needs a rescue. Rescues please visit in person or email transferdas@rivco.Org Days Out : 18 Link : Click for Details ViewType : adopt",
+            "id": "A1926589",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1926589",
+            "image_link": "https://24petconnect.com/image/701285362"
         },
         {
-            "name": "Olivia",
-            "breed": "Chihuahua - Smooth Coated",
-            "comments": "Medical - femur fracture. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org",
-            "id": "A1924837",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1924837",
-            "image_link": "https://24petconnect.com/image/699905140"
+            "name": "Rip Tide",
+            "breed": "Pit Bull Terrier",
+            "comments": "Too young - nursing underage puppies with mom (\"beach\" a1926589). Days Out : 18 Link : Click for Details ViewType : adopt",
+            "id": "A1926590",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1926590",
+            "image_link": "https://24petconnect.com/image/701288669"
         },
         {
-            "name": "Remi",
-            "breed": "SPANIEL",
-            "comments": "***Deadline. Must exit shelter by thursday 7/09 5pm*** behavior can you help Remi?",
-            "id": "A1895705",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1895705",
-            "image_link": "https://24petconnect.com/image/697572314"
+            "name": "Mako",
+            "breed": "Belgian Malinois",
+            "comments": "***Deadline. Must exit shelter by tuesday 07/28 5pm*** Mako is declining in the shelter environment. Can you help Mako??? Transferdas@rivco.Org Days Out : 20 Link : Click for Details ViewType : adopt",
+            "id": "A1926149",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1926149",
+            "image_link": "https://24petconnect.com/image/703507355"
+        },
+        {
+            "name": "Winston",
+            "breed": "Labrador Retriever",
+            "comments": "***Deadline. Must exit shelter by tuesday 07/28 5pm*** Winston is declining in the shelter environment. Can you help Winston??? Transferdas@rivco.Org Days Out : 22 Link : Click for Details ViewType : adopt",
+            "id": "A1925964",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925964",
+            "image_link": "https://24petconnect.com/image/703510495"
+        },
+        {
+            "name": "Buttercup",
+            "breed": "TERRIER",
+            "comments": "***Deadline. Must exit shelter by thursday 07/30 5pm*** Buttercup is declining in the shelter environment. Can you help Buttercup??? Transferdas@rivco.Org Days Out : 30 Link : Click for Details ViewType : adopt",
+            "id": "A1924615",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1924615",
+            "image_link": "https://24petconnect.com/image/703509512"
+        },
+        {
+            "name": "Santos",
+            "breed": "Queensland Heeler",
+            "comments": "***Deadline. Must exit shelter by wednesday 07/29 5pm*** Santos is declining in the shelter environment. Can you help Santos??? Transferdas@rivco.Org Days Out : 32 Link : Click for Details ViewType : adopt",
+            "id": "A1924081",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1924081",
+            "image_link": "https://24petconnect.com/image/701378734"
+        },
+        {
+            "name": "Shawn",
+            "breed": "Siberian Husky",
+            "comments": "Medical - stiff left elbow - cannot flex or extend. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out : 32 Link : Click for Details ViewType : adopt",
+            "id": "A1924172",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1924172",
+            "image_link": "https://24petconnect.com/image/699498080"
+        },
+        {
+            "name": "Buffy",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by tuesday 07/28 5pm*** Buffy is declining in the shelter environment. Can you help Buffy??? Transferdas@rivco.Org Days Out : 33 Link : Click for Details ViewType : adopt",
+            "id": "A1924017",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1924017",
+            "image_link": "https://24petconnect.com/image/700584173"
+        },
+        {
+            "name": "Petal",
+            "breed": "Siberian Husky",
+            "comments": "***Deadline. Must exit shelter by thursday 07/30 5pm*** Petal is declining in the shelter environment. Can you help Petal??? Transferdas@rivco.Org Days Out : 34 Link : Click for Details ViewType : adopt",
+            "id": "A1923497",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1923497",
+            "image_link": "https://24petconnect.com/image/700301712"
+        },
+        {
+            "name": "Flick",
+            "breed": "Siberian Husky",
+            "comments": "***Deadline must exit shelter by tuesday 07/28 5pm*** Flick is declining in the shelter enviornment. Can you help Flick??? Transferdas@rivco.Org Days Out : 39 Link : Click for Details ViewType : adopt",
+            "id": "A1922874",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1922874",
+            "image_link": "https://24petconnect.com/image/700301702"
+        },
+        {
+            "name": "Caramel",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by wednesday 07/29 5pm*** Caramel is declining in the shelter environment. Can you help Caramel??? Transferdas@rivco.Org Days Out : 40 Link : Click for Details ViewType : adopt",
+            "id": "A1922600",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1922600",
+            "image_link": "https://24petconnect.com/image/700990591"
+        },
+        {
+            "name": "Hamner",
+            "breed": "TERRIER",
+            "comments": "Medical -multiple fractures - pelvis, right femur, l tib/fib, l femoral head/ acetabulum. Needs immediate exit.Rescues please visit in person or email trans...",
+            "id": "A1922717",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1922717",
+            "image_link": "https://24petconnect.com/image/703236250"
+        },
+        {
+            "name": "Ricotta",
+            "breed": "SHEPHERD",
+            "comments": "Medical - mom is \"cheesy\" a1922473. Rescues please visit in person or email transferdas@rivco.Org Days Out : 41 Info : In a Foster Home Link : Click for Details ViewType : adopt",
+            "id": "A1922474",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1922474",
+            "image_link": "https://24petconnect.com/image/703236236"
         },
         {
             "name": "Jessie",
             "breed": "German Shepherd Dog",
-            "comments": "Mother nursing puppies",
+            "comments": "Mother nursing puppies Days Out : 46 Link : Click for Details ViewType : adopt",
             "id": "A1921694",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1921694",
             "image_link": "https://24petconnect.com/image/698379190"
@@ -69,42 +173,74 @@
         {
             "name": "Athena",
             "breed": "German Shepherd Dog",
-            "comments": "Litter of pups nursing with mom (a1921694)",
+            "comments": "Litter of pups nursing with mom (a1921694) Days Out : 46 Info : In a Foster Home Link : Click for Details ViewType : adopt",
             "id": "A1921695",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1921695",
             "image_link": "https://24petconnect.com/image/700847472"
         },
         {
-            "name": "Blue",
+            "name": "Mcnugget",
+            "breed": "SHEPHERD",
+            "comments": "***Deadline. Must exit shelter by thursday 7/30 5pm*** behavior can you help Mcnugget? Transferdas@rivco.Org Days Out : 63 Link : Click for Details ViewType : adopt",
+            "id": "A1918674",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1918674",
+            "image_link": "https://24petconnect.com/image/703316777"
+        },
+        {
+            "name": "King",
+            "breed": "Cane Corso",
+            "comments": "***Deadline. Must exit shelter by thursday 07/30 5pm*** medical. Needs immediate exit. Can you help King? Transferdas@rivco.Org Days Out : 64 Link : Click for Details ViewType : adopt",
+            "id": "A1918586",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1918586",
+            "image_link": "https://24petconnect.com/image/697548974"
+        },
+        {
+            "name": "Amoeba",
+            "breed": "Australian Cattle Dog",
+            "comments": "Nursing pups with mom (a1916754) Days Out : 73 Info : In a Foster Home Link : Click for Details ViewType : adopt",
+            "id": "A1916756",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1916756",
+            "image_link": "https://24petconnect.com/image/703235955"
+        },
+        {
+            "name": "Igor",
             "breed": "German Shepherd Dog",
-            "comments": "Behavior can you help Blue??",
-            "id": "A1919867",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1919867",
-            "image_link": "https://24petconnect.com/image/697446183"
+            "comments": "***Deadline. Must exit shelter by thursday 07/30 5pm*** Igor is declining in the shelter environment. Can you help Igor??? Transferdas@rivco.Org Days Out : 73 Link : Click for Details ViewType : adopt",
+            "id": "A1916814",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1916814",
+            "image_link": "https://24petconnect.com/image/696192219"
         },
         {
             "name": "Shirley",
-            "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by wednesday 7/08 5pm*** behavior can you help Shirley??",
-            "id": "A1919380",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1919380",
-            "image_link": ""
+            "breed": "Siberian Husky",
+            "comments": "Medical can you help ? Transferdas@rivco.Org Days Out : 85 Info : In a Foster Home Link : Click for Details ViewType : adopt",
+            "id": "A1914483",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1914483",
+            "image_link": "https://24petconnect.com/image/703234151"
         },
         {
-            "name": "Mcnugget",
-            "breed": "SHEPHERD",
-            "comments": "***Deadline. Must exit shelter by wednesday 07/01 5pm*** behavior can you help Mcnugget?",
-            "id": "A1918674",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1918674",
-            "image_link": ""
+            "name": "Lady",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by wednesday 07/29 5pm*** Lady is declining in the shelter environment. Can you help Lady??? Transferdas@rivco.Org Days Out : 124 Link : Click for Details ViewType : adopt",
+            "id": "A1877844",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1877844",
+            "image_link": "https://24petconnect.com/image/703509509"
         },
         {
-            "name": "Spud",
+            "name": "Luther",
             "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by wednesday 7/08 5pm*** behavior. Can you help Spud??",
-            "id": "A1917193",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1917193",
-            "image_link": ""
+            "comments": "***Deadline. Must exit shelter by tuesday 07/28 5pm*** Luther is declining in the shelter environment. Can you help Luther??? Transferdas@rivco.Org Days Out : 129 Link : Click for Details ViewType : adopt",
+            "id": "A1905440",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1905440",
+            "image_link": "https://24petconnect.com/image/697757416"
+        },
+        {
+            "name": "Tucco",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by tuesday 07/28 5pm*** needs an adopter or rescue. Can you help Tucco??? Transferdas@rivco.Org Days Out : 131 Link : Click for Details ViewType : adopt",
+            "id": "A1905137",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1905137",
+            "image_link": "https://24petconnect.com/image/688821833"
         }
     ]
 }
