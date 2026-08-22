@@ -10,6 +10,27 @@ from typing import List
 import instructor
 from datetime import datetime  # Added import for timestamp
 
+def push_to_github(filename="shelter_animals.json"):
+    print(f"🚀 [GIT] Pushing {filename} to GitHub...", flush=True)
+    try:
+        # 1. Stage the specific file
+        subprocess.run(["git", "add", filename], check=True)
+        
+        # 2. Check if there are actual changes to commit
+        status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, check=True)
+        if not status_result.stdout.strip():
+            print("ℹ️ [GIT] No changes detected in the data file. Skipping commit and push.")
+            return
+
+        # 3. Commit the changes with a dynamic timestamp message
+        commit_message = f"Auto-update shelter data: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+        subprocess.run(["git", "commit", "-m", commit_message], check=True)
+        
+        # 4. Push to the remote repository (assumes 'origin' and current active branch are set)
+        subprocess.run(["git", "push"], check=True)
+        
+        print("✅ Successfully pushed updates to GitHub!")
+
 # 1. Define the schema structure using Pydantic
 class AnimalRecord(BaseModel):
     name: str = Field(description="The name of the animal")
@@ -152,5 +173,9 @@ if cleaned_html_text:
         print(f"✅ Extraction complete! Found {len(all_animals)} high-risk animals.")
         print(f"📁 Data cleanly exported to '{output_filename}'")
 
+        push_to_github(output_filename)
+
     except Exception as e:
         print(f"\n❌ Instructor/Ollama extraction failed: {e}")
+
+    
