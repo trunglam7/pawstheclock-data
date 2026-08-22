@@ -30,6 +30,8 @@ def push_to_github(filename="shelter_animals.json"):
         subprocess.run(["git", "push"], check=True)
         
         print("✅ Successfully pushed updates to GitHub!")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Git automation failed: {e}")
 
 # 1. Define the schema structure using Pydantic
 class AnimalRecord(BaseModel):
