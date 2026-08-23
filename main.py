@@ -8,7 +8,8 @@ import re
 from pydantic import BaseModel, Field
 from typing import List
 import instructor
-from datetime import datetime  # Added import for timestamp
+from datetime import datetime
+import subprocess
 
 def push_to_github(filename="shelter_animals.json"):
     print(f"🚀 [GIT] Pushing {filename} to GitHub...", flush=True)
