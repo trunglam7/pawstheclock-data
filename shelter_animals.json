@@ -1,19 +1,19 @@
 {
-    "scraped_at": "2026-08-28T00:56:27.509905",
+    "scraped_at": "2026-08-29T04:09:04.715201",
     "total_animals": 5,
     "animals": [
         {
-            "name": "Esme",
-            "breed": "French Bulldog",
-            "comments": "Medical - right shoulder and front limb are elevated and deformed causing body tilt. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org",
-            "id": "A1933744",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933744",
-            "image_link": "https://24petconnect.com/image/707083718"
+            "name": "Cloud",
+            "breed": "Great Pyrenees",
+            "comments": " MEDICAL Days Out : 4 Link : View for Details ViewType : adopt",
+            "id": "A1934073",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934073",
+            "image_link": "https://24petconnect.com/image/707710918"
         },
         {
             "name": "Winnie",
             "breed": "German Shepherd Dog",
-            "comments": "Mother nursing puppies Days Out : 8 Link : Click for Details ViewType : adopt",
+            "comments": " MEDICAL Comments : Mother nursing puppies Days Out : 9 Link : View for Details ViewType : adopt",
             "id": "A1933368",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933368",
             "image_link": "https://24petconnect.com/image/707515120"
@@ -21,7 +21,7 @@
         {
             "name": "Kanga",
             "breed": "German Shepherd Dog",
-            "comments": "Litter of pups nursing with mom (a1933368) Days Out : 8 Link : Click for Details ViewType : adopt",
+            "comments": " MEDICAL Comments : Litter of pups nursing with mom (a1933368) Days Out : 9 Link : View for Details ViewType : adopt",
             "id": "A1933369",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933369",
             "image_link": "https://24petconnect.com/image/707518979"
@@ -29,18 +29,18 @@
         {
             "name": "Clark",
             "breed": "German Shepherd Dog",
-            "comments": "Medical - left hip dislocated, multiple rib fractures. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org",
+            "comments": " MEDICAL Comments : Medical - left hip dislocated, multiple rib fractures. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in...",
             "id": "A1933376",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933376",
             "image_link": "https://24petconnect.com/image/707075693"
         },
         {
-            "name": "Foxie",
-            "breed": "Australian Shepherd",
-            "comments": "Medical. Has fracture needs exit transferdas@rivco.Org Days Out : 8 Link : Click for Details ViewType : adopt",
-            "id": "A1933412",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933412",
-            "image_link": "https://24petconnect.com/image/707374409"
+            "name": "Cutie Pie",
+            "breed": "Siberian Husky",
+            "comments": " BEHAVIOR Comments : Behavior can you help Cutie pie? Transferdas@rivco.Org Days Out : ",
+            "id": "",
+            "profile_link": "'",
+            "image_link": "https://24petconnect.com/image/707403474"
         }
     ]
 }
