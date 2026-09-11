@@ -1,14 +1,238 @@
 {
-    "scraped_at": "2026-09-09T01:44:02.883971",
-    "total_animals": 1,
+    "scraped_at": "2026-09-11T01:50:10.902672",
+    "total_animals": 29,
     "animals": [
+        {
+            "name": "Milo",
+            "breed": "Labrador Retriever",
+            "comments": "Deadline. Must exit shelter by wednesday 09/09 5pm*** behavior, can you help?",
+            "id": "A1765070",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1765070",
+            "image_link": "https://24petconnect.com/image/705189336"
+        },
+        {
+            "name": "Sweets",
+            "breed": "SHEPHERD",
+            "comments": "Deadline. Must exit shelter by eod 9/9*** hit by car. Severe medical transferdas@rivco.Org ",
+            "id": "A1936182",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936182",
+            "image_link": "https://24petconnect.com/image/708898255"
+        },
+        {
+            "name": "Gizmo",
+            "breed": "TERRIER",
+            "comments": "Deadline. Must exit shelter by fri 9/11 5pm*** medical - geriatric, heart murmur, underweight, severe dental disease, healing abrasions on right rear leg. Can you help? Transferdas@rivco.Org.",
+            "id": "A1936124",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936124",
+            "image_link": "https://24petconnect.com/image/708646927"
+        },
+        {
+            "name": "Socks",
+            "breed": "Pit Bull Terrier",
+            "comments": "Deadline. Must exit shelter by 5pm tue 9/15*** behavior can you help Socks? Transferdas@rivco.Org ",
+            "id": "A1892666",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1892666",
+            "image_link": "https://24petconnect.com/image/708134008"
+        },
+        {
+            "name": "Gia",
+            "breed": "Pit Bull Terrier",
+            "comments": "Medical can you help? Transferdas@rivco.Org ",
+            "id": "A1935182",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1935182",
+            "image_link": "https://24petconnect.com/image/708126887"
+        },
+        {
+            "name": "Patty",
+            "breed": "SHEPHERD",
+            "comments": "Deadline. Must exit shelter by 5pm tue 9/15*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org ",
+            "id": "A1934880",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934880",
+            "image_link": "https://24petconnect.com/image/709002315"
+        },
+        {
+            "name": "Floof",
+            "breed": "Akita",
+            "comments": " Deadline. Must exit shelter by 5pm wed 9/16*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org ",
+            "id": "A1934882",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934882",
+            "image_link": "https://24petconnect.com/image/709000987"
+        },
+        {
+            "name": "Klondike",
+            "breed": "Pit Bull Terrier",
+            "comments": "Deadline. Must exit shelter by 5pm wed 9/16*** behavior can you help? Transferdas@rivco.Org ",
+            "id": "A1934044",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934044",
+            "image_link": "https://24petconnect.com/image/708901215"
+        },
+        {
+            "name": "Kylo",
+            "breed": "German Shepherd Dog",
+            "comments": "*Pending pickup** ***deadline. Must exit shelter by tuesday 09/08 5pm*** medical/behavior can you help Kylo? Transferdas@rivco.Org ",
+            "id": "A1933306",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933306",
+            "image_link": "https://24petconnect.com/image/708321999"
+        },
+        {
+            "name": "Winnie",
+            "breed": "German Shepherd Dog",
+            "comments": "Mother nursing puppies ",
+            "id": "A1933368",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933368",
+            "image_link": "https://24petconnect.com/image/707515120"
+        },
+        {
+            "name": "Kanga",
+            "breed": "German Shepherd Dog",
+            "comments": "Litter of pups nursing with mom (a1933368) ",
+            "id": "A1933369",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933369",
+            "image_link": "https://24petconnect.com/image/707518979"
+        },
+        {
+            "name": "Rex",
+            "breed": "German Shepherd Dog",
+            "comments": "***Deadline. Must exit shelter by tuesday 09/08 5pm*** medical - left hip dislocated, multiple rib fractures. Can you help? Transferdas@rivco.Org ",
+            "id": "A1933376",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933376",
+            "image_link": "https://24petconnect.com/image/707075693"
+        },
+        {
+            "name": "Bruce",
+            "breed": "Great Pyrenees",
+            "comments": "***Deadline. Must exit shelter by 5pm thur 9/17*** medical - rectum abscess, chronic elbow luxation. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org ",
+            "id": "A1933514",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933514",
+            "image_link": "https://24petconnect.com/image/708719274"
+        },
+        {
+            "name": "Button",
+            "breed": "Cane Corso",
+            "comments": "***Deadline. Must exit shelter by tuesday 09/08 5pm*** behavior/space can you help Button? Transferdas@rivco.Org ",
+            "id": "A1932563",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1932563",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Monte",
+            "breed": "Chow Chow",
+            "comments": "*Pending pickup** ***deadline. Must exit shelter by wednesday 09/09 5pm*** behavior can you help Monte? Transferdas@rivco.Org ",
+            "id": "A1931751",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1931751",
+            "image_link": "https://24petconnect.com/image/708324795"
+        },
+        {
+            "name": "Espeon",
+            "breed": "Belgian Malinois",
+            "comments": "***Deadline. Must exit shelter by thursday 09/10 5pm*** behavior can you help? Transferdas@rivco.Org ",
+            "id": "A1931768",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1931768",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Spunk",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by 5pm wed 9/16*** behavior can you help? Transferdas@rivco.Org ",
+            "id": "A1931621",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1931621",
+            "image_link": "https://24petconnect.com/image/708017917"
+        },
+        {
+            "name": "Lilly",
+            "breed": "German Shepherd Dog",
+            "comments": "**Has commitment. Pending pickup** mother nursing puppies ",
+            "id": "A1931082",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1931082",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Azalea",
+            "breed": "German Shepherd Dog",
+            "comments": "**Has commitment. Pending pickup** litter of pups nursing with mom (a1931082) ",
+            "id": "A1931083",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1931083",
+            "image_link": "https://24petconnect.com/image/705189359"
+        },
+        {
+            "name": "Antonio",
+            "breed": "Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by thursday 09/10 5pm*** behavior, can you help Antonio? Transferdas@rivco.Org ",
+            "id": "A1913499",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1913499",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Sweetie",
+            "breed": "German Shepherd Dog",
+            "comments": "***Deadline. Must exit shelter by 5pm tue 9/15*** behavior can you help? Transferdas@rivco.Org ",
+            "id": "A1930186",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1930186",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Banjo",
+            "breed": "German Shepherd Dog",
+            "comments": "**Pending rescue pickup** ***deadline. Must exit shelter by wednesday 09/09 5pm*** behavior, can you help? Transferdas@rivco.Org ",
+            "id": "A1930219",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1930219",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Marco",
+            "breed": "American Pit Bull Terrier",
+            "comments": "***Deadline. Must exit shelter by 5pm thur 9/17*** behavior can you help? Transferdas@rivco.Org ",
+            "id": "A1930289",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1930289",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Cutie Pie",
+            "breed": "Siberian Husky",
+            "comments": "***Deadline. Must exit shelter by 5pm tue 9/15*** behavior can you help Cutie pie? Transferdas@rivco.Org ",
+            "id": "A1929941",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1929941",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Kurk",
+            "breed": "SHEPHERD",
+            "comments": "***Deadline. Must exit shelter by thursday 09/10 5pm*** behavior can you help Kurk? Transferdas@rivco.Org ",
+            "id": "A1929562",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1929562",
+            "image_link": "Missing"
+        },
         {
             "name": "Luna",
             "breed": "Pit Bull Terrier",
-            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org ",
+            "comments": "***Deadline. Must exit shelter by 5pm tue 9/15*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org ",
             "id": "A1928907",
-            "profile_link": "",
-            "image_link": ""
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1928907",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Henrietta",
+            "breed": "SHEPHERD",
+            "comments": "***Deadline. Must exit shelter by 5pm tue 9/15*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org ",
+            "id": "A1928312",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1928312",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Bella",
+            "breed": "German Shepherd Dog",
+            "comments": "***Deadline. Must exit shelter by thursday 09/10 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org ",
+            "id": "A1925785",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925785",
+            "image_link": "Missing"
+        },
+        {
+            "name": "Zara",
+            "breed": "SHEPHERD",
+            "comments": "***Deadline. Must exit shelter by 5pm thur 9/17*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org ",
+            "id": "A1925285",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925285",
+            "image_link": "Missing"
         }
     ]
 }
