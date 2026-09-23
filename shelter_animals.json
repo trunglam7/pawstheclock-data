@@ -1,30 +1,46 @@
 {
-    "scraped_at": "2026-09-22T01:49:24.217675",
+    "scraped_at": "2026-09-23T01:41:42.347808",
     "total_animals": 30,
     "animals": [
         {
             "name": "Benny",
             "breed": "German Shepherd Dog",
-            "comments": "Medical - multiple fractures in right hind paw.",
+            "comments": "Medical - multiple fractures in right hind paw. Can you help?",
             "id": "A1938259",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938259",
             "image_link": "https://24petconnect.com/image/710069626"
         },
         {
+            "name": "Tustin",
+            "breed": "Pit Bull Terrier",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1937475",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1937475",
+            "image_link": "https://24petconnect.com/image/709529029"
+        },
+        {
             "name": "Max",
             "breed": "German Shepherd Dog",
-            "comments": "Medical - left ilium fracture,necrotic tissue and the distal femur exposed,mulitple full thickness wounds on left lateral thighs, severe tick infestation.",
+            "comments": "Medical - left ilium fracture,necrotic tissue and the distal femur exposed,mulitple full thickness wounds on left lateral thighs, severe tick infestation. Can you help?",
             "id": "A1937214",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1937214",
             "image_link": "https://24petconnect.com/image/709502788"
         },
         {
-            "name": "Theo Outcome: I HAVE BEEN RESCUED!",
-            "breed": "Poodle - Standard",
-            "comments": "***Deadline. Must exit shelter by end of day sat 9/19*** severe medical, hit by car",
-            "id": "A1937138",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1937138",
-            "image_link": "https://24petconnect.com/image/709508205"
+            "name": "Spike",
+            "breed": "Belgian Malinois",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1936904",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936904",
+            "image_link": "https://24petconnect.com/image/709701741"
+        },
+        {
+            "name": "Tino",
+            "breed": "Rottweiler",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1936705",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936705",
+            "image_link": "https://24petconnect.com/image/709636481"
         },
         {
             "name": "Ravioli",
@@ -35,20 +51,36 @@
             "image_link": "https://24petconnect.com/image/710057746"
         },
         {
+            "name": "Dynamite",
+            "breed": "SHEPHERD",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1936276",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936276",
+            "image_link": "https://24petconnect.com/image/710168049"
+        },
+        {
             "name": "Jimbo",
             "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by 5pm tue 9/22*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "comments": "***Deadline. Must exit shelter by 5pm tue 9/22*** behavior - not doing well in shelter.",
             "id": "A1936369",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936369",
-            "image_link": "https://24petconnect.com/image/709629409"
+            "image_link": ""
         },
         {
             "name": "Albus",
             "breed": "Siberian Husky",
-            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter.",
             "id": "A1936146",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936146",
-            "image_link": "https://24petconnect.com/image/709632374"
+            "image_link": ""
+        },
+        {
+            "name": "Sparkle",
+            "breed": "Siberian Husky",
+            "comments": "Medical can you help Sparkle?",
+            "id": "A1935840",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1935840",
+            "image_link": "https://24petconnect.com/image/709598620"
         },
         {
             "name": "Buggy",
@@ -67,12 +99,20 @@
             "image_link": "https://24petconnect.com/image/708130304"
         },
         {
+            "name": "Rohan",
+            "breed": "German Shepherd Dog",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1935276",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1935276",
+            "image_link": "https://24petconnect.com/image/708157698"
+        },
+        {
             "name": "Oso",
             "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by 5pm tue 9/22*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "comments": "***Deadline. Must exit shelter by 5pm tue 9/22*** behavior - not doing well in shelter.",
             "id": "A1935029",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1935029",
-            "image_link": "https://24petconnect.com/image/709625665"
+            "profile_link": "",
+            "image_link": ""
         },
         {
             "name": "Gia",
@@ -83,11 +123,27 @@
             "image_link": "https://24petconnect.com/image/708126887"
         },
         {
+            "name": "Gooby",
+            "breed": "Australian Cattle Dog",
+            "comments": "Behavior can you help?",
+            "id": "A1934838",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934838",
+            "image_link": "https://24petconnect.com/image/709213310"
+        },
+        {
+            "name": "Shadow",
+            "breed": "German Shepherd Dog",
+            "comments": "Behavior, can you help?",
+            "id": "A1934714",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934714",
+            "image_link": "https://24petconnect.com/image/708330457"
+        },
+        {
             "name": "Kylo",
             "breed": "German Shepherd Dog",
             "comments": "***Deadline. Must exit shelter by tuesday 09/08 5pm*** medical/behavior can you help Kylo?",
             "id": "A1933306",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933306",
+            "profile_link": "",
             "image_link": ""
         },
         {
@@ -107,11 +163,19 @@
             "image_link": ""
         },
         {
+            "name": "Cooper",
+            "breed": "SHEPHERD",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1933375",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933375",
+            "image_link": ""
+        },
+        {
             "name": "Simon",
             "breed": "SHEPHERD",
-            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter.",
             "id": "A1933025",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933025",
+            "profile_link": "",
             "image_link": ""
         },
         {
@@ -123,123 +187,59 @@
             "image_link": ""
         },
         {
+            "name": "Zeus",
+            "breed": "Pit Bull Terrier",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1925910",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925910",
+            "image_link": ""
+        },
+        {
+            "name": "Rocky",
+            "breed": "German Shepherd Dog",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1930682",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1930682",
+            "image_link": ""
+        },
+        {
             "name": "Lizzy",
             "breed": "SHEPHERD",
-            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter.",
             "id": "A1919060",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1919060",
+            "profile_link": "",
             "image_link": ""
         },
         {
             "name": "Churo",
             "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter.",
             "id": "A1929512",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1929512",
+            "profile_link": "",
             "image_link": ""
         },
         {
             "name": "Nebula",
             "breed": "Belgian Malinois",
-            "comments": "***Deadline. Must exit shelter by 5pm wed 9/23*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "comments": "***Deadline. Must exit shelter by 5pm wed 9/23*** behavior - not doing well in shelter.",
             "id": "A1929429",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1929429",
+            "profile_link": "",
+            "image_link": ""
+        },
+        {
+            "name": "Jasper",
+            "breed": "German Shepherd Dog",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1928856",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1928856",
             "image_link": ""
         },
         {
             "name": "Mr. Bill",
             "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by 5pm wed 9/23*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "comments": "***Deadline. Must exit shelter by 5pm wed 9/23*** behavior - not doing well in shelter.",
             "id": "A1927102",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1927102",
-            "image_link": ""
-        },
-        {
-            "name": "Bella",
-            "breed": "Pit Bull Terrier",
-            "comments": "Medical can you help Bella??",
-            "id": "A1925993",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925993",
-            "image_link": ""
-        },
-        {
-            "name": "Muffin",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by 5pm wed 9/23*** behavior - not doing well in shelter. Needs an adopter or rescue.",
-            "id": "A1922268",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1922268",
-            "image_link": ""
-        },
-        {
-            "name": "Luz",
-            "breed": "Pit Bull Terrier",
-            "comments": "Medical - multiple firm lumps (approx. 2-3Inches) in submandibular area,suspected enlarged lymph nodes - can you help?",
-            "id": "A1717109",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1717109",
-            "image_link": ""
-        },
-        {
-            "name": "Tessa",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by 5pm tue 9/22*** behavior - not doing well in shelter. Needs an adopter or rescue.",
-            "id": "A1920919",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1920919",
-            "image_link": ""
-        },
-        {
-            "name": "Shirley",
-            "breed": "Siberian Husky",
-            "comments": "Medical can you help ?",
-            "id": "A1914483",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1914483",
-            "image_link": ""
-        },
-        {
-            "name": "Pops",
-            "breed": "Siberian Husky",
-            "comments": "Geriatric - needs an adopter or rescue.",
-            "id": "A1900018",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1900018",
-            "image_link": ""
-        },
-        {
-            "name": "Miles",
-            "breed": "Rhodesian Ridgeback",
-            "comments": "***Deadline. Must exit shelter by tuesday 7/07 5pm*** behavior can you help Miles???",
-            "id": "A1899152",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1899152",
-            "image_link": ""
-        },
-        {
-            "name": "D.O.G.",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior can you help?",
-            "id": "A1895844",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1895844",
-            "image_link": ""
-        },
-        {
-            "name": "Hubert",
-            "breed": "Pit Bull Terrier",
-            "comments": "Medical - growth on front paws - social with staff. Needs an adopter or rescue.",
-            "id": "A1892637",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1892637",
-            "image_link": ""
-        },
-        {
-            "name": "Gregory",
-            "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by 5pm tue 9/22*** behavior - not doing well in shelter. Needs an adopter or rescue.",
-            "id": "A1882018",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1882018",
-            "image_link": ""
-        },
-        {
-            "name": "Sparrow",
-            "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by 5pm wed 9/23*** behavior - not doing well in shelter. Needs an adopter or rescue.",
-            "id": "A1882019",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1882019",
+            "profile_link": "",
             "image_link": ""
         }
     ]
