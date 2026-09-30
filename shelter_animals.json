@@ -1,246 +1,150 @@
 {
-    "scraped_at": "2026-09-27T02:04:01.001607",
-    "total_animals": 30,
+    "scraped_at": "2026-09-29T20:49:14.783331",
+    "total_animals": 18,
     "animals": [
         {
-            "name": "Benny",
-            "breed": "German Shepherd Dog",
-            "comments": "Medical - multiple fractures in right hind paw. Can you help?",
-            "id": "A1938259",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938259",
-            "image_link": "https://24petconnect.com/image/710069626"
-        },
-        {
-            "name": "Tustin",
-            "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by 5pm tue 9/29*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out : 1...",
-            "id": "A1937475",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1937475",
-            "image_link": "https://24petconnect.com/image/710253473"
-        },
-        {
-            "name": "Max",
-            "breed": "German Shepherd Dog",
-            "comments": "Medical - left ilium fracture,necrotic tissue and the distal femur exposed,mulitple full thickness wounds on left lateral thighs, severe tick infestation. Can you help?",
-            "id": "A1937214",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1937214",
-            "image_link": "https://24petconnect.com/image/709502788"
-        },
-        {
-            "name": "Spike",
-            "breed": "Belgian Malinois",
-            "comments": "***Deadline. Must exit shelter by 5pm wed 9/30*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out : 16...",
-            "id": "A1936904",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936904",
-            "image_link": "https://24petconnect.com/image/710243448"
-        },
-        {
-            "name": "Tino",
-            "breed": "Rottweiler",
-            "comments": "***Deadline. Must exit shelter by wednesday 09/30 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out :...",
-            "id": "A1936705",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936705",
-            "image_link": "https://24petconnect.com/image/710243449"
-        },
-        {
-            "name": "Ravioli",
-            "breed": "Pit Bull Terrier",
-            "comments": "Senior can you help?",
-            "id": "A1936275",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936275",
-            "image_link": "https://24petconnect.com/image/710057746"
-        },
-        {
-            "name": "Dynamite",
-            "breed": "SHEPHERD",
-            "comments": "***Deadline. Must exit shelter by thursday 10/1 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out : 19 Link : Click...",
-            "id": "A1936276",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936276",
-            "image_link": "https://24petconnect.com/image/710168049"
-        },
-        {
-            "name": "Sparkle",
-            "breed": "Siberian Husky",
-            "comments": "***Deadline. Must exit shelter by 5pm wed 9/30*** medical can you help Sparkle?",
-            "id": "A1935840",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1935840",
-            "image_link": "https://24petconnect.com/image/709598620"
-        },
-        {
-            "name": "Rohan",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by wednesday 09/30 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days...",
-            "id": "A1935276",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1935276",
-            "image_link": "https://24petconnect.com/image/710260388"
-        },
-        {
-            "name": "Gia",
-            "breed": "Pit Bull Terrier",
-            "comments": "Medical can you help?",
-            "id": "A1935182",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1935182",
-            "image_link": "https://24petconnect.com/image/708126887"
-        },
-        {
-            "name": "Gooby",
-            "breed": "Australian Cattle Dog",
-            "comments": "***Deadline. Must exit shelter by 5pm tue 9/29*** behavior can you help?",
-            "id": "A1934838",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934838",
-            "image_link": "https://24petconnect.com/image/710254844"
-        },
-        {
-            "name": "Shadow",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by tuesday 09/29 5pm*** behavior, can you help?",
-            "id": "A1934714",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934714",
-            "image_link": "https://24petconnect.com/image/710287861"
-        },
-        {
-            "name": "Kylo",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by tuesday 09/08 5pm*** medical/behavior can you help Kylo?",
-            "id": "A1933306",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933306",
-            "image_link": "https://24petconnect.com/image/710582458"
-        },
-        {
-            "name": "Winnie",
-            "breed": "German Shepherd Dog",
-            "comments": "Mother nursing puppies Days Out : 38 Link : Click for Details ViewType : adopt",
-            "id": "A1933368",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933368",
-            "image_link": "https://24petconnect.com/image/707515120"
-        },
-        {
-            "name": "Kanga",
-            "breed": "German Shepherd Dog",
-            "comments": "Litter of pups nursing with mom (a1933368)",
-            "id": "A1933369",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933369",
-            "image_link": "https://24petconnect.com/image/707518979"
-        },
-        {
-            "name": "Cooper",
-            "breed": "SHEPHERD",
-            "comments": "***Deadline. Must exit shelter by wednesday 09/30 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out :...",
-            "id": "A1933375",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933375",
-            "image_link": "https://24petconnect.com/image/708718998"
-        },
-        {
-            "name": "Zeus",
-            "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by tuesday 09/29 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out :...",
-            "id": "A1925910",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925910",
-            "image_link": "https://24petconnect.com/image/708134660"
-        },
-        {
-            "name": "Rocky",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by thursday 10/1 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org...",
-            "id": "A1930682",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1930682",
-            "image_link": "https://24petconnect.com/image/708719280"
-        },
-        {
-            "name": "Churo",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by 5pm thur 9/24*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in perso...",
-            "id": "A1929512",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1929512",
+            "name": "Lab Mix - Male",
+            "breed": "Mixed Breed: Labrador Retriever / Mixed (short coat)",
+            "comments": "",
+            "id": "P1037",
+            "profile_link": "https://example.com/P1037",
             "image_link": ""
         },
         {
-            "name": "Jasper",
-            "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by thursday 10/1 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org...",
-            "id": "A1928856",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1928856",
-            "image_link": "https://24petconnect.com/image/708034226"
-        },
-        {
-            "name": "Mr. Bill",
-            "breed": "Pit Bull Terrier",
-            "comments": "**Pending pickup** ***deadline. Must exit shelter by 5pm wed 9/23*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit...",
-            "id": "A1927102",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1927102",
-            "image_link": "https://24petconnect.com/image/705881098"
-        },
-        {
-            "name": "Neo",
-            "breed": "Siberian Husky",
-            "comments": "***Deadline. Must exit shelter by thursday 10/1 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org...",
-            "id": "A1926989",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1926989",
-            "image_link": "https://24petconnect.com/image/704964136"
-        },
-        {
-            "name": "Helena",
-            "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by 5pm tue 9/29*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out...",
-            "id": "A1925990",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925990",
+            "name": "Orange Tabby Kitten",
+            "breed": "Domestic Shorthair / Tabby (short coat)",
+            "comments": "Spayed/Neutered, Microchipped, Up-to-date on shots, and in good health.",
+            "id": "P1034",
+            "profile_link": "https://example.com/P1028-1",
             "image_link": ""
         },
         {
-            "name": "Bella",
-            "breed": "Pit Bull Terrier",
-            "comments": "Medical can you help Bella??",
-            "id": "A1925993",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925993",
-            "image_link": "https://24petconnect.com/image/702113512"
-        },
-        {
-            "name": "Rosey",
-            "breed": "Australian Cattle Dog",
-            "comments": "***Deadline. Must exit shelter by thursday 10/1 5pm*** behavior - needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out :...",
-            "id": "A1924923",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1924923",
+            "name": "Foster: P1043 - Small Senior Cat",
+            "breed": "Domestic Shorthair (short coat)",
+            "comments": "",
+            "id": "P1039",
+            "profile_link": "https://example.com/P1035-0",
             "image_link": ""
         },
         {
-            "name": "Luz",
-            "breed": "Pit Bull Terrier",
-            "comments": "Medical - multiple firm lumps (approx. 2-3Inches) in submandibular area,suspected enlarged lymph nodes - can you help?",
-            "id": "A1717109",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1717109",
-            "image_link": "https://24petconnect.com/image/699991774"
-        },
-        {
-            "name": "Bobby",
-            "breed": "Pit Bull Terrier",
-            "comments": "***Deadline. Must exit shelter by 5pm tue 9/29*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days...",
-            "id": "A1922195",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1922195",
+            "name": "Lab Retriever Mix - Female",
+            "breed": "Mixed Breed: Labrador Retriever / Mixed (short coat)",
+            "comments": "Spayed/Neutered, Microchipped and up to date on vaccines.",
+            "id": "P1026",
+            "profile_link": "https://example.com/P1037-1",
             "image_link": ""
         },
         {
-            "name": "Shirley",
-            "breed": "Siberian Husky",
-            "comments": "Medical can you help ?",
-            "id": "A1914483",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1914483",
+            "name": "Domestic Shorthair Mix - Female",
+            "breed": "Mixed Breed: Domestic Shorthair / Mixed (short coat)",
+            "comments": "Spayed/Neutered. Microchipped, and up to date on vaccines.",
+            "id": "T1007",
+            "profile_link": "https://example.com/T1016-0",
             "image_link": ""
         },
         {
-            "name": "Pops",
-            "breed": "Siberian Husky",
-            "comments": "Geriatric - needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rivco.Org Days Out :...",
-            "id": "A1900018",
+            "name": "Foster: T1023 - Senior Dog",
+            "breed": "Labradane (short coat)",
+            "comments": "",
+            "id": "T1005",
+            "profile_link": "https://example.com/T1017-0",
+            "image_link": ""
+        },
+        {
+            "name": "Black Lab Mix - Female",
+            "breed": "Mixed Breed: Labrador Retriever / Mixed (short coat)",
+            "comments": "",
+            "id": "P1036",
+            "profile_link": "https://example.com/P1022-1",
+            "image_link": ""
+        },
+        {
+            "name": "Senior Lab Mix - Male",
+            "breed": "&quot;Seniour&quot;LabMix (short coat)",
+            "comments": "",
+            "id": "P1040",
+            "profile_link": "https://example.com/P1025-1",
+            "image_link": ""
+        },
+        {
+            "name": "Tabby Mix - Female",
+            "breed": "Domestic Shorthair / Tabby (short coat)",
+            "comments": "Spayed/Neutered. Microchipped and up to date on vaccines.",
+            "id": "T1009",
+            "profile_link": "https://example.com/T1015-0",
+            "image_link": ""
+        },
+        {
+            "name": "Pit Retriever Mix - Female (spayed)",
+            "breed": "Mixed Breed: Pit Bull Terrier / Labrador Retriever/Mix",
+            "comments": "Spayed/Neutered. Microchipped, and up to date on vaccines.",
+            "id": "T1001",
+            "profile_link": "https://example.com/T1013-0",
+            "image_link": ""
+        },
+        {
+            "name": "Tabby - Female (Spayed)",
+            "breed": "Domestic Shorthair / Tabby (short coat)",
+            "comments": "",
+            "id": "T1021",
+            "profile_link": "https://example.com/T1053-0",
+            "image_link": ""
+        },
+        {
+            "name": "Lab Retriever Mix - Female",
+            "breed": "Mixed Breed: Labrador Retriever / Mixed (short coat)",
+            "comments": "Spayed/Neutered. Microchipped and up to date on vaccines.",
+            "id": "P1034",
+            "profile_link": "https://example.com/P1028-0",
+            "image_link": ""
+        },
+        {
+            "name": "Lab Mix - Female (Spayed)",
+            "breed": "Mixed Breed: Labrador Retriever / Mixed (short coat)",
+            "comments": "",
+            "id": "P1041",
+            "profile_link": "https://example.com/P1024-1",
+            "image_link": ""
+        },
+        {
+            "name": "Tabby Mix - Male",
+            "breed": "Domestic Shorthair / Tabby (short coat)",
+            "comments": "",
+            "id": "T1003",
+            "profile_link": "https://example.com/T1011-0",
+            "image_link": ""
+        },
+        {
+            "name": "Senior Dog, possible Lab",
+            "breed": "&quot;Seniour&quot;Lab Mix (short coat)",
+            "comments": "",
+            "id": "T1072",
+            "profile_link": "https://example.com/T1050-1",
+            "image_link": ""
+        },
+        {
+            "name": "",
+            "breed": "",
+            "comments": "Will be transferred to new foster home on 2023-10-16.",
+            "id": "T1171",
             "profile_link": "",
-            "image_link": "https://24petconnect.com/image/710573829"
+            "image_link": ""
         },
         {
-            "name": "Miles",
-            "breed": "Rhodesian Ridgeback",
-            "comments": "***Deadline. Must exit shelter by tuesday 7/07 5pm*** behavior can you help Miles???",
-            "id": "A1899152",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1899152",
-            "image_link": "https://24petconnect.com/image/710577544"
+            "name": "",
+            "breed": "",
+            "comments": "Vet Visit on Oct 18th.",
+            "id": "P1078",
+            "profile_link": "",
+            "image_link": ""
+        },
+        {
+            "name": "",
+            "breed": "",
+            "comments": "Adopted!",
+            "id": "T1109",
+            "profile_link": "",
+            "image_link": ""
         }
     ]
 }
