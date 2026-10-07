@@ -1,11 +1,123 @@
 {
-    "scraped_at": "2026-10-05T01:12:00.560719",
-    "total_animals": 6,
+    "scraped_at": "2026-10-07T01:30:23.989852",
+    "total_animals": 29,
     "animals": [
+        {
+            "name": "Lulu",
+            "breed": "Cane Corso",
+            "comments": "Medical - parvo positive - can you help?",
+            "id": "A1940619",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940619",
+            "image_link": "https://24petconnect.com/image/711545639"
+        },
+        {
+            "name": "Bigz",
+            "breed": "Cane Corso",
+            "comments": "Medical - parvo positive - can you help?",
+            "id": "A1940620",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940620",
+            "image_link": "https://24petconnect.com/image/711545640"
+        },
+        {
+            "name": "Genie",
+            "breed": "Cane Corso",
+            "comments": "Medical - parvo positive - can you help?",
+            "id": "A1940622",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940622",
+            "image_link": "https://24petconnect.com/image/711545643"
+        },
+        {
+            "name": "Pudge",
+            "breed": "Cane Corso",
+            "comments": "Medical - parvo positive - can you help?",
+            "id": "A1940623",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940623",
+            "image_link": "https://24petconnect.com/image/711545642"
+        },
+        {
+            "name": "Connie",
+            "breed": "Cane Corso",
+            "comments": "Medical - parvo positive - can you help?",
+            "id": "A1940624",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940624",
+            "image_link": "https://24petconnect.com/image/711545641"
+        },
+        {
+            "name": "Copper",
+            "breed": "Doberman Pinscher",
+            "comments": "*Pending pick up* medical - parvo positive - can you help?",
+            "id": "A1940459",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940459",
+            "image_link": "https://24petconnect.com/image/711449092"
+        },
+        {
+            "name": "Puggie",
+            "breed": "Pug",
+            "comments": "*Pending pick up* parvo positive needs immediate exit transferdas@rivco.Org",
+            "id": "A1940399",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940399",
+            "image_link": "https://24petconnect.com/image/711535651"
+        },
+        {
+            "name": "Nova",
+            "breed": "Chow Chow",
+            "comments": "Medical. Has fracture can you help Nova?",
+            "id": "A1940174",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940174",
+            "image_link": ""
+        },
+        {
+            "name": "Momsie",
+            "breed": "Cane Corso",
+            "comments": "Mother nursing puppies",
+            "id": "A1939944",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1939944",
+            "image_link": "https://24petconnect.com/image/711071932"
+        },
+        {
+            "name": "Tucker",
+            "breed": "American Pit Bull Terrier",
+            "comments": "Behavior. Can you help?",
+            "id": "A1939309",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1939309",
+            "image_link": "https://24petconnect.com/image/711433361"
+        },
+        {
+            "name": "Henry",
+            "breed": "TERRIER",
+            "comments": "Parvo positive needs immediate exit transferdas@rivco.Org",
+            "id": "A1939483",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1939483",
+            "image_link": "https://24petconnect.com/image/711414553"
+        },
+        {
+            "name": "Kid",
+            "breed": "TERRIER",
+            "comments": "Parvo positive needs immediate exit transferdas@rivco.Org",
+            "id": "A1939485",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1939485",
+            "image_link": "https://24petconnect.com/image/711414554"
+        },
+        {
+            "name": "Toad",
+            "breed": "Pit Bull Terrier",
+            "comments": "Behavior. Can you help?",
+            "id": "A1939007",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1939007",
+            "image_link": "https://24petconnect.com/image/710462508"
+        },
+        {
+            "name": "Twinkie",
+            "breed": "Pit Bull Terrier",
+            "comments": "Behavior. Can you help?",
+            "id": "A1939109",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1939109",
+            "image_link": "https://24petconnect.com/image/711520135"
+        },
         {
             "name": "Flower",
             "breed": "Doberman Pinscher",
-            "comments": "Medical - nursing undergraduate puppies. Can you help? Transferdas@rivco.Org Days Out : 11 Link : Click for Details ViewType : adopt",
+            "comments": "Medical - nursing underage puppies. Can you help?",
             "id": "A1938882",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938882",
             "image_link": "https://24petconnect.com/image/710817248"
@@ -13,15 +125,31 @@
         {
             "name": "Ren",
             "breed": "Doberman Pinscher",
-            "comments": "Medical - undergraduate puppies nursing with mom \"flower\" A1938882. Can you help? Transferdas@rivco.Org Days Out : 11 Link : Click for Details ViewType : adopt",
+            "comments": "Medical - underage puppies nursing with mom ",
             "id": "A1938883",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938883",
             "image_link": "https://24petconnect.com/image/710388804"
         },
         {
+            "name": "Bear",
+            "breed": "Border Collie",
+            "comments": "Behavior. Can you help?",
+            "id": "A1904293",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1904293",
+            "image_link": "https://24petconnect.com/image/711552834"
+        },
+        {
+            "name": "Primrose",
+            "breed": "Belgian Malinois",
+            "comments": "Behavior. Can you help?",
+            "id": "A1938448",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938448",
+            "image_link": "https://24petconnect.com/image/711540613"
+        },
+        {
             "name": "Devin",
             "breed": "German Shepherd Dog",
-            "comments": "***Deadline. Must exit shelter by Tuesday 10/06 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or email transferdas@rvco...",
+            "comments": " ***Deadline. Must exit shelter by tuesday 10/06 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue.",
             "id": "A1938596",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938596",
             "image_link": "https://24petconnect.com/image/710935389"
@@ -29,26 +157,82 @@
         {
             "name": "Benny",
             "breed": "German Shepherd Dog",
-            "comments": "Medical - multiple fractures in right hind paw. Can you help? Transferdas@rivco.Org Days Out : 16 Link : Click for Details ViewType : adopt",
+            "comments": "Medical - multiple fractures in right hind paw. Can you help?",
             "id": "A1938259",
             "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938259",
-            "image_link": "https://24petconnect.com/image/710069626"
+            "image_link": ""
         },
         {
-            "name": "Ravioli",
+            "name": "Nugget",
             "breed": "Pit Bull Terrier",
-            "comments": "Senior can you help? Transferdas@rivco.Org Days Out : 27 Link : Click for Details ViewType : adopt",
-            "id": "A1936275",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936275",
-            "image_link": "https://24petconnect.com/image/710057746"
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1937960",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1937960",
+            "image_link": ""
         },
         {
-            "name": "Bella",
+            "name": "Max",
+            "breed": "German Shepherd Dog",
+            "comments": "Medical - left ilium fracture,necrotic tissue and the distal femur exposed,mulitple full thickness wounds on left lateral thighs, severe tick infestation. Can you help?",
+            "id": ">A1937214",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details,RVSD/A1937214",
+            "image_link": ""
+        },
+        {
+            "name": "Scooby",
+            "breed": "Doberman Pinscher",
+            "comments": "Behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1937136",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details,RVSD/A1937136",
+            "image_link": ""
+        },
+        {
+            "name": "Ash",
+            "breed": "German Shepherd Dog",
+            "comments": "Behavior. Can you help?",
+            "id": "A1937050",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details,RVSD/A1937050",
+            "image_link": ""
+        },
+        {
+            "name": "Troy",
+            "breed": "Belgian Malinois",
+            "comments": " ***Deadline. Must exit shelter by thursday 10/08 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1936660",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details,RVSD/A1936660",
+            "image_link": ""
+        },
+        {
+            "name": "Mamas",
             "breed": "Pit Bull Terrier",
-            "comments": "Medical can you help Bella?? Transferdas@rivco.Org Days Out : 90 Link : Click for Details ViewType : adopt",
-            "id": "A1925993",
-            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925993",
-            "image_link": "https://24petconnect.com/image/702113512"
+            "comments": "Behavior. Can you help?",
+            "id": "A1897312",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details,RVSD/A1897312",
+            "image_link": ""
+        },
+        {
+            "name": "Cisco Outcome: I HAVE BEEN RESCUED! ",
+            "breed": "Queensland Heeler",
+            "comments": "***deadline. Must exit shelter by wednesday 10/07 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1936517",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details,RVSD//A1936517",
+            "image_link": ""
+        },
+        {
+            "name": "Bluey Outcome: I HAVE BEEN RESCUED! ",
+            "breed": "Queensland Heeler",
+            "comments": "***deadline. Must exit shelter by tuesday 10/06 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1936518",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details,RVSD//A1936518",
+            "image_link": ""
+        },
+        {
+            "name": "Boomer Outcome: I HAVE BEEN RESCUED! ",
+            "breed": "Queensland Heeler",
+            "comments": "***deadline. Must exit shelter by wednesday 10/07 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue.",
+            "id": "A1936519",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details,RVSD//A1936519",
+            "image_link": ""
         }
     ]
 }
