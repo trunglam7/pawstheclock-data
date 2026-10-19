@@ -1,5 +1,62 @@
 {
-    "scraped_at": "2026-10-18T00:43:54.749680",
-    "total_animals": 0,
-    "animals": []
+    "scraped_at": "2026-10-19T00:58:44.763592",
+    "total_animals": 7,
+    "animals": [
+        {
+            "name": "Lacey",
+            "breed": "French Bulldog",
+            "comments": "*Pending pick up* ***deadline. Must exit shelter by tuesday 10/20/26 by 5pm*** medical.",
+            "id": "A1942130",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1942130",
+            "image_link": "https://24petconnect.com/image/712569385"
+        },
+        {
+            "name": "Tito",
+            "breed": "Chihuahua - Smooth Coated",
+            "comments": "Medical - curled in r front paw. Needs an adopter or rescue.",
+            "id": "A1941448",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1941448",
+            "image_link": "https://24petconnect.com/image/712120133"
+        },
+        {
+            "name": "Benny",
+            "breed": "German Shepherd Dog",
+            "comments": "Medical - multiple fractures in right hind paw.",
+            "id": "A1938259",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938259",
+            "image_link": "https://24petconnect.com/image/712512054"
+        },
+        {
+            "name": "Ramon",
+            "breed": "Labrador Retriever",
+            "comments": "***Deadline. Must exit shelter by thursday 10/22 5pm*** behavior.",
+            "id": "A1938118",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938118",
+            "image_link": "https://24petconnect.com/image/712404698"
+        },
+        {
+            "name": "Penguin",
+            "breed": "Siberian Husky",
+            "comments": "***Deadline. Must exit shelter by tuesday 10/20 5pm*** behavior.",
+            "id": "A1936269",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936269",
+            "image_link": "https://24petconnect.com/image/710168044"
+        },
+        {
+            "name": "Guava",
+            "breed": "Siberian Husky",
+            "comments": "*Pending pick up* ***deadline. Must exit shelter by tuesday 10/20 5pm*** behavior - not doing well in shelter.",
+            "id": "A1934937",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1934937",
+            "image_link": ""
+        },
+        {
+            "name": "Kylo",
+            "breed": "German Shepherd Dog",
+            "comments": "***Deadline. Must exit shelter by tuesday 09/08 5pm*** medical/behavior.",
+            "id": "A1933306",
+            "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1933306",
+            "image_link": "https://24petconnect.com/image/712673830"
+        }
+    ]
 }
