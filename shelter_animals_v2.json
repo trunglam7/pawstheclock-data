@@ -1,0 +1,164 @@
+{
+    "scraped_at": "2026-10-24T19:38:57.652204",
+    "total_animals": 19,
+    "shelters": {
+        "western_riverside_county": {
+            "shelter_name": "Western Riverside County/City Animal Shelter",
+            "total_animals": 19,
+            "animals": [
+                {
+                    "name": "Bonny",
+                    "breed": "Belgian Malinois",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Mother nursing puppies | Days Out: 16",
+                    "id": "A1941081",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1941081",
+                    "image_link": "https://24petconnect.com/image/712348528"
+                },
+                {
+                    "name": "Sunrise",
+                    "breed": "Belgian Malinois",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Litter of puppies nursing with mom (a1941081) | Days Out: 16",
+                    "id": "A1941083",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1941083",
+                    "image_link": "https://24petconnect.com/image/712348529"
+                },
+                {
+                    "name": "Mila",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by tuesday 10/27 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 18",
+                    "id": "A1940714",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1940714",
+                    "image_link": "https://24petconnect.com/image/713172511"
+                },
+                {
+                    "name": "Ghosty",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 22",
+                    "id": "A1939174",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1939174",
+                    "image_link": "https://24petconnect.com/image/712100051"
+                },
+                {
+                    "name": "Sundance",
+                    "breed": "Labrador Retriever",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by wednesday 10/28 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 31",
+                    "id": "A1938597",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938597",
+                    "image_link": "https://24petconnect.com/image/712388432"
+                },
+                {
+                    "name": "Bud",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 32",
+                    "id": "A1938492",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938492",
+                    "image_link": "https://24petconnect.com/image/712390765"
+                },
+                {
+                    "name": "Bells",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by wednesday 10/28 5pm*** behavior - not doing well in shelter. Can you help? Transferdas@rivco.Org | Days Out: 32",
+                    "id": "A1938530",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938530",
+                    "image_link": "https://24petconnect.com/image/712974008"
+                },
+                {
+                    "name": "Houdini",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by wednesday 10/28 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 35",
+                    "id": "A1938251",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938251",
+                    "image_link": "https://24petconnect.com/image/712974020"
+                },
+                {
+                    "name": "Ramon",
+                    "breed": "Labrador Retriever",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by thursday 10/22 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 36",
+                    "id": "A1938118",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938118",
+                    "image_link": "https://24petconnect.com/image/712404698"
+                },
+                {
+                    "name": "Ziggy",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: **Commitment rcvd - pending pickup** ***deadline. Must exit shelter by thursday 10/22 5pm*** behavior - not doing well in shelter. Needs an adopter or rescue. Adopters visit in person. Rescues please visit in person or emai...",
+                    "id": "A1936483",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1936483",
+                    "image_link": "https://24petconnect.com/image/712404702"
+                },
+                {
+                    "name": "Storm",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: Behavior. Can you help? Transferdas@rivco.Org | Days Out: 72",
+                    "id": "A1931968",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1931968",
+                    "image_link": "https://24petconnect.com/image/711805553"
+                },
+                {
+                    "name": "Monty",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by thursday 10/29 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 83",
+                    "id": "A1930613",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1930613",
+                    "image_link": "https://24petconnect.com/image/710722753"
+                },
+                {
+                    "name": "Ruby",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by tuesday 10/27 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 88",
+                    "id": "A1892838",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1892838",
+                    "image_link": "https://24petconnect.com/image/713179479"
+                },
+                {
+                    "name": "Marcia Brady",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by wednesday 10/28 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 89",
+                    "id": "A1929650",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1929650",
+                    "image_link": "https://24petconnect.com/image/712513282"
+                },
+                {
+                    "name": "Charlie",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by wednesday 10/28 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 90",
+                    "id": "A1929572",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1929572",
+                    "image_link": "https://24petconnect.com/image/713179476"
+                },
+                {
+                    "name": "Bella",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: ***Deadline. Must exit shelter by tuesday 10/27 5pm*** medical/ behavior can you help Bella?? Transferdas@rivco.Org | Days Out: 109",
+                    "id": "A1925993",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925993",
+                    "image_link": "https://24petconnect.com/image/702113512"
+                },
+                {
+                    "name": "Patch",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by thursday 10/29 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 141",
+                    "id": "A1919870",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1919870",
+                    "image_link": "https://24petconnect.com/image/698096651"
+                },
+                {
+                    "name": "Nova",
+                    "breed": "Rottweiler",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by tuesday 10/27 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 177",
+                    "id": "A1914219",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1914219",
+                    "image_link": "https://24petconnect.com/image/713182030"
+                },
+                {
+                    "name": "Wales",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by thursday 10/29 5pm*** behavior can you help Wales??? Transferdas@rivco.Org | Days Out: 224",
+                    "id": "A1904679",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1904679",
+                    "image_link": "https://24petconnect.com/image/698096654"
+                }
+            ]
+        }
+    }
+}
