@@ -1,6 +1,6 @@
 {
-    "scraped_at": "2026-11-07T00:00:05.429363",
-    "total_animals": 41,
+    "scraped_at": "2026-11-07T00:00:08.066061",
+    "total_animals": 68,
     "shelters": {
         "western_riverside_county": {
             "shelter_name": "Western Riverside County/City Animal Shelter",
@@ -343,6 +343,230 @@
                     "id": "A1913733",
                     "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1913733",
                     "image_link": "https://24petconnect.com/image/702233036"
+                }
+            ]
+        },
+        "san_jacinto_valley": {
+            "shelter_name": "San Jacinto Valley Animal Campus",
+            "city": "San Jacinto",
+            "state": "CA",
+            "total_animals": 27,
+            "animals": [
+                {
+                    "name": "Mama Meadow",
+                    "breed": "TERRIER",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Mama meadow is a mom nursing puppies, can you help? Sjrescue@rivco.Org | Days Out: 2",
+                    "id": "A1945528",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945528",
+                    "image_link": "https://24petconnect.com/image/716387809"
+                },
+                {
+                    "name": "Finch",
+                    "breed": "TERRIER",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Mom (a1945528) nursing puppies, can you help? Sjrescue@rivco.Org | Days Out: 2",
+                    "id": "A1945529",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945529",
+                    "image_link": "https://24petconnect.com/image/716387800"
+                },
+                {
+                    "name": "Mama Bear",
+                    "breed": "Dachshund",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Mama bear is a mom nursing puppies, can you help? Sjrescue@rivco.Org | Days Out: 2",
+                    "id": "A1945535",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945535",
+                    "image_link": "https://24petconnect.com/image/716386060"
+                },
+                {
+                    "name": "Nita",
+                    "breed": "Dachshund",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Mom (a1945535) nursing puppies, can you help? Sjrescue@rivco.Org | Days Out: 2",
+                    "id": "A1945536",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945536",
+                    "image_link": "https://24petconnect.com/image/716384084"
+                },
+                {
+                    "name": "Kiwi",
+                    "breed": "Mastiff",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/10/26 by 5pm** Kiwi is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 10",
+                    "id": "A1944189",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1944189",
+                    "image_link": "https://24petconnect.com/image/716195261"
+                },
+                {
+                    "name": "Hershey",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Hershey is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 10",
+                    "id": "A1944209",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1944209",
+                    "image_link": "https://24petconnect.com/image/714790454"
+                },
+                {
+                    "name": "Beans",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/11/26 by 5pm** Beans is not doing well in the shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 11",
+                    "id": "A1943884",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1943884",
+                    "image_link": "https://24petconnect.com/image/715186907"
+                },
+                {
+                    "name": "Canelo",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/10/26 by 5pm** Canelo is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 11",
+                    "id": "A1822571",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1822571",
+                    "image_link": "https://24petconnect.com/image/716209741"
+                },
+                {
+                    "name": "Aziel",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/10/26 by 5pm** Aziel is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 13",
+                    "id": "A1943656",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1943656",
+                    "image_link": "https://24petconnect.com/image/716213354"
+                },
+                {
+                    "name": "Karla",
+                    "breed": "Labrador Retriever",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/11/26 by 5pm** Karla is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 14",
+                    "id": "A1943538",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1943538",
+                    "image_link": "https://24petconnect.com/image/716209742"
+                },
+                {
+                    "name": "Cuz",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/10/26 by 5pm** Cuz is not doing well in the shelter environment. Unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 14",
+                    "id": "A1924467",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1924467",
+                    "image_link": "https://24petconnect.com/image/716234733"
+                },
+                {
+                    "name": "Kalabar",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Kalabar is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 19",
+                    "id": "A1942604",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942604",
+                    "image_link": "https://24petconnect.com/image/712960657"
+                },
+                {
+                    "name": "Marnie",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Marnie is parvo positive. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 19",
+                    "id": "A1942605",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942605",
+                    "image_link": "https://24petconnect.com/image/712961702"
+                },
+                {
+                    "name": "Aggie",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Aggie parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 19",
+                    "id": "A1942606",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942606",
+                    "image_link": "https://24petconnect.com/image/712961704"
+                },
+                {
+                    "name": "Sophee",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Sophee is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 19",
+                    "id": "A1942607",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942607",
+                    "image_link": "https://24petconnect.com/image/712961708"
+                },
+                {
+                    "name": "Chi Chi",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 10/12/26 by 5pm** Chi chi is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 19",
+                    "id": "A1872667",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1872667",
+                    "image_link": "https://24petconnect.com/image/716417519"
+                },
+                {
+                    "name": "Zuri",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Zuri is a mom nursing puppies, can you help? Sjrescue@rivco.Org | Days Out: 20",
+                    "id": "A1942522",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942522",
+                    "image_link": "https://24petconnect.com/image/712874965"
+                },
+                {
+                    "name": "",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Mom (a1942522) nursing puppies, can you help? Sjrescue@rivco.Org | Days Out: 20",
+                    "id": "A1942523",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942523",
+                    "image_link": "https://24petconnect.com/image/712863181"
+                },
+                {
+                    "name": "Moose",
+                    "breed": "Cane Corso",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 10/12/26 by 5pm** Moose is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 21",
+                    "id": "A1942454",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942454",
+                    "image_link": "https://24petconnect.com/image/714595085"
+                },
+                {
+                    "name": "Jason",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Jason is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 24",
+                    "id": "A1941997",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1941997",
+                    "image_link": "https://24petconnect.com/image/712525486"
+                },
+                {
+                    "name": "Chucky",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Chucky is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 24",
+                    "id": "A1941998",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1941998",
+                    "image_link": "https://24petconnect.com/image/712525482"
+                },
+                {
+                    "name": "Carrie",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Carrie is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 24",
+                    "id": "A1941999",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1941999",
+                    "image_link": "https://24petconnect.com/image/712526871"
+                },
+                {
+                    "name": "Bruce",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/11/26 by 5pm** Bruce is not doing well in the shelter environment. Unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 25",
+                    "id": "A1941633",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1941633",
+                    "image_link": "https://24petconnect.com/image/715553674"
+                },
+                {
+                    "name": "Katrina",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/10/26 by 5pm** Katrina is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 30",
+                    "id": "A1940945",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1940945",
+                    "image_link": "https://24petconnect.com/image/715721321"
+                },
+                {
+                    "name": "Rosco",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/11/26 by 5pm** Rosco is not doing well in the shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 32",
+                    "id": "A1940639",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1940639",
+                    "image_link": "https://24petconnect.com/image/714570123"
+                },
+                {
+                    "name": "Romeo",
+                    "breed": "Pointer",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/10/26 by 5pm** Romeo is not doing well in the shelter environment. Unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 37",
+                    "id": "A1940004",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1940004",
+                    "image_link": "https://24petconnect.com/image/711434459"
+                },
+                {
+                    "name": "Aaliyah",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Aaliyah is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 52",
+                    "id": "A1937762",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1937762",
+                    "image_link": "https://24petconnect.com/image/709688478"
                 }
             ]
         }
