@@ -1,6 +1,6 @@
 {
-    "scraped_at": "2026-11-16T00:00:02.539945",
-    "total_animals": 26,
+    "scraped_at": "2026-11-16T00:00:05.616674",
+    "total_animals": 42,
     "shelters": {
         "western_riverside_county": {
             "shelter_name": "Western Riverside County/City Animal Shelter",
@@ -215,6 +215,142 @@
                     "id": "A1920528",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1920528",
                     "image_link": "https://24petconnect.com/image/699534672"
+                }
+            ]
+        },
+        "coachella_valley": {
+            "shelter_name": "Coachella Valley Animal Campus",
+            "city": "Thousand Palms",
+            "state": "CA",
+            "total_animals": 16,
+            "animals": [
+                {
+                    "name": "Tessie",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Tessie ? Tessie is not doing well in shelter/kennel environment. Cvacrescue@rivco.Org | Days Out: 2",
+                    "id": "A1799139",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1799139",
+                    "image_link": "https://24petconnect.com/image/717244163"
+                },
+                {
+                    "name": "Elsa",
+                    "breed": "TERRIER",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: MEDICAL | Comments: Can you help Elsa? Elsa is in need of advanced medical care. Elsa needs needs help from an adopter or rescue. Needs immediate exit cvacrescue@rivco.Org | Days Out: 13",
+                    "id": "A1945101",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1945101",
+                    "image_link": "https://24petconnect.com/image/715870253"
+                },
+                {
+                    "name": "Benji",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Benji has a documented bite history. Needs immediate exit. Can you help? Cvacrescue@rivco.Org | Days Out: 26",
+                    "id": "A1943096",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1943096",
+                    "image_link": "https://24petconnect.com/image/714616213"
+                },
+                {
+                    "name": "Saturn",
+                    "breed": "Weimaraner",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Saturn has a documented bite history. Needs immediate exit. Can you help Saturn? Cvacrescue@rivco.Org | Days Out: 37",
+                    "id": "A1936766",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1936766",
+                    "image_link": "https://24petconnect.com/image/714587531"
+                },
+                {
+                    "name": "Nike",
+                    "breed": "Labrador Retriever",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: MEDICAL | Comments: Can you help Nike? Nike has extensive medical. Nike is open for adoption or rescue. Cvacrescue@rivco.Org | Days Out: 38",
+                    "id": "A1941181",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1941181",
+                    "image_link": "https://24petconnect.com/image/714187813"
+                },
+                {
+                    "name": "Celeste",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Celeste? Celeste is not doing well in shelter environment. Celeste is unable to be co-housed. Needs immediate exit. Cvacrescue@rivco.Org | Days Out: 38",
+                    "id": "A1941214",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1941214",
+                    "image_link": "https://24petconnect.com/image/714231093"
+                },
+                {
+                    "name": "Vinny",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Vinny is not doing well in shelter environment. Can you help Vinny? Cvacrescue@rivco.Org | Days Out: 41",
+                    "id": "A1932477",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1932477",
+                    "image_link": "https://24petconnect.com/image/710716827"
+                },
+                {
+                    "name": "Goliath",
+                    "breed": "Labrador Retriever",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Goliath? He is not doing well in shelter/kennel environment Goliath needs help from a dedicated adopter or rescue. Cvacrescue@rivco.Org | Days Out: 48",
+                    "id": "A1939537",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1939537",
+                    "image_link": "https://24petconnect.com/image/713872726"
+                },
+                {
+                    "name": "Hopper",
+                    "breed": "Siberian Husky",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Hopper is not doing well in shelter environment. Can you help Hopper? Cvacrescue@rivco.Org | Days Out: 55",
+                    "id": "A1938554",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1938554",
+                    "image_link": "https://24petconnect.com/image/711071933"
+                },
+                {
+                    "name": "Goomba",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Goomba? Goomba is currently kenneled alone he needs help from a dedicated adopter or rescue. Cvacrescue@rivco.Org | Days Out: 55",
+                    "id": "A1926114",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1926114",
+                    "image_link": "https://24petconnect.com/image/710194027"
+                },
+                {
+                    "name": "Yoyo",
+                    "breed": "Rottweiler",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Yoyo ? Yoyo needs help from a dedicated adopter or rescue. Yoyo is currently kenneled alone. Cvacrescue@rivco.Org | Days Out: 79",
+                    "id": "A1934894",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1934894",
+                    "image_link": "https://24petconnect.com/image/708349411"
+                },
+                {
+                    "name": "Rosie",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Rosie? Rosie needs help from a dedicated adopter or rescue. Cvacrescue@rivco.Org | Days Out: 81",
+                    "id": "A1934509",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1934509",
+                    "image_link": "https://24petconnect.com/image/707636978"
+                },
+                {
+                    "name": "Apollo",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Can you help Apollo? Apollo is not doing well in shelter/kennel environment. Apollo is looking for a dedicated adopter or rescue. Cvacrescue@rivco.Org | Days Out: 87",
+                    "id": "A1896703",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1896703",
+                    "image_link": "https://24petconnect.com/image/706992350"
+                },
+                {
+                    "name": "Bronco",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Bronco? Bronco is not doing well in shelter/kennel environment. Cvacrescue@rivco.Org | Days Out: 136",
+                    "id": "A1926110",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1926110",
+                    "image_link": "https://24petconnect.com/image/703504517"
+                },
+                {
+                    "name": "Ivy",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Can you help Ivy? Ivy needs help from a dedicated adopter or rescue. Ivy is not doing well in shelter environment. Cvacrescue@rivco.Org | Days Out: 185",
+                    "id": "A1917166",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1917166",
+                    "image_link": "https://24petconnect.com/image/710156325"
+                },
+                {
+                    "name": "Tommy Pickles",
+                    "breed": "Bull Terrier",
+                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Days Out: 299",
+                    "id": "A1896701",
+                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1896701",
+                    "image_link": "https://24petconnect.com/image/717572117"
                 }
             ]
         }
