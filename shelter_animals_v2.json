@@ -1,6 +1,6 @@
 {
-    "scraped_at": "2026-11-25T00:00:05.320764",
-    "total_animals": 39,
+    "scraped_at": "2026-11-25T00:00:11.244657",
+    "total_animals": 63,
     "shelters": {
         "western_riverside_county": {
             "shelter_name": "Western Riverside County/City Animal Shelter",
@@ -327,6 +327,206 @@
                     "id": "A1896701",
                     "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1896701",
                     "image_link": "https://24petconnect.com/image/717572117"
+                }
+            ]
+        },
+        "san_jacinto_valley": {
+            "shelter_name": "San Jacinto Valley Animal Campus",
+            "city": "San Jacinto",
+            "state": "CA",
+            "total_animals": 24,
+            "animals": [
+                {
+                    "name": "Leon",
+                    "breed": "French Bulldog",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: ** Needs immediate placement, in need of advance medical care** sjrescue@rivco.Org | Days Out: 5",
+                    "id": "A1947733",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1947733",
+                    "image_link": "https://24petconnect.com/image/719336228"
+                },
+                {
+                    "name": "Willow",
+                    "breed": "Mastiff",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Willow is parvo positive. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 6",
+                    "id": "A1947454",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1947454",
+                    "image_link": "https://24petconnect.com/image/719025523"
+                },
+                {
+                    "name": "River",
+                    "breed": "Mastiff",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: River is parvo positive. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 6",
+                    "id": "A1947456",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1947456",
+                    "image_link": "https://24petconnect.com/image/719027814"
+                },
+                {
+                    "name": "Clover",
+                    "breed": "Mastiff",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Clover is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 6",
+                    "id": "A1947458",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1947458",
+                    "image_link": "https://24petconnect.com/image/719025522"
+                },
+                {
+                    "name": "Madame De Maintenon",
+                    "breed": "Bulldog",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Madame de maintenon is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 6",
+                    "id": "A1947493",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1947493",
+                    "image_link": "https://24petconnect.com/image/719984212"
+                },
+                {
+                    "name": "Beau",
+                    "breed": "Australian Cattle Dog",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Beau is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 11",
+                    "id": "A1946626",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1946626",
+                    "image_link": "https://24petconnect.com/image/719999074"
+                },
+                {
+                    "name": "Onyx",
+                    "breed": "Boxer",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Onyx is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 15",
+                    "id": "A1946142",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1946142",
+                    "image_link": "https://24petconnect.com/image/719141004"
+                },
+                {
+                    "name": "Drake",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/24/26 by 5pm** Drake is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 16",
+                    "id": "A1945951",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945951",
+                    "image_link": "https://24petconnect.com/image/718154857"
+                },
+                {
+                    "name": "Bugs",
+                    "breed": "Labrador Retriever",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/24/26 by 5pm** Bugs is not doing well in the shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 19",
+                    "id": "A1945623",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945623",
+                    "image_link": "https://24petconnect.com/image/718924950"
+                },
+                {
+                    "name": "Orpheus",
+                    "breed": "Border Collie",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Orpheus is not doing well in the shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 20",
+                    "id": "A1945558",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945558",
+                    "image_link": "https://24petconnect.com/image/718921337"
+                },
+                {
+                    "name": "Bones",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/24/26 by 5pm** Bones is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 22",
+                    "id": "A1944985",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1944985",
+                    "image_link": "https://24petconnect.com/image/718344080"
+                },
+                {
+                    "name": "Cranberry",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Cranberry has a documented bite history. Needs immediate exit. Can you help? Sjrescue@rivco.Org sjrescue@rivco.Org | Days Out: 22",
+                    "id": "A1945090",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945090",
+                    "image_link": "https://24petconnect.com/image/718176191"
+                },
+                {
+                    "name": "Betty",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Betty is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 25",
+                    "id": "A1944714",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1944714",
+                    "image_link": "https://24petconnect.com/image/718335957"
+                },
+                {
+                    "name": "Boston",
+                    "breed": "TERRIER",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Boston is not doing well in the shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 28",
+                    "id": "A1912827",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1912827",
+                    "image_link": "https://24petconnect.com/image/718921331"
+                },
+                {
+                    "name": "Lampoc",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/24/26 by 5pm** Lampoc is not doing well in the shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 28",
+                    "id": "A1912829",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1912829",
+                    "image_link": "https://24petconnect.com/image/718921328"
+                },
+                {
+                    "name": "Dynamite",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: BEHAVIOR | Comments: Dynamite is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 29",
+                    "id": "A1936276",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1936276",
+                    "image_link": "https://24petconnect.com/image/714431169"
+                },
+                {
+                    "name": "Chapo",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Chapo is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 31",
+                    "id": "A1943681",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1943681",
+                    "image_link": "https://24petconnect.com/image/719228521"
+                },
+                {
+                    "name": "Bronx",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Bronx is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 33",
+                    "id": "A1943428",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1943428",
+                    "image_link": "https://24petconnect.com/image/716602901"
+                },
+                {
+                    "name": "Sophee",
+                    "breed": "SHEPHERD",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Sophee is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 37",
+                    "id": "A1942607",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942607",
+                    "image_link": "https://24petconnect.com/image/712961708"
+                },
+                {
+                    "name": "Zuri",
+                    "breed": "Labrador Retriever",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Zuri is a mom nursing puppies, can you help? Sjrescue@rivco.Org | Days Out: 38",
+                    "id": "A1942522",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942522",
+                    "image_link": "https://24petconnect.com/image/712874965"
+                },
+                {
+                    "name": "Asher",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: Asher is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 50",
+                    "id": "A1940571",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1940571",
+                    "image_link": "https://24petconnect.com/image/717972756"
+                },
+                {
+                    "name": "Cupid",
+                    "breed": "Alaskan Husky",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: *In need of immediate placement** Cupid has had multiple surgeries to repair a rectal prolapse. He needs a dedicated adopter or rescue. Can you help Cupid? Transferdas@rivco.Org | Days Out: 65",
+                    "id": "A1900086",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1900086",
+                    "image_link": "https://24petconnect.com/image/710538261"
+                },
+                {
+                    "name": "Sir",
+                    "breed": "German Shepherd Dog",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Days Out: 76",
+                    "id": "A1936706",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1936706",
+                    "image_link": "https://24petconnect.com/image/709495709"
+                },
+                {
+                    "name": "Moto",
+                    "breed": "Pit Bull Terrier",
+                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/24/26 by 5pm** Moto is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 113",
+                    "id": "A1930996",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1930996",
+                    "image_link": "https://24petconnect.com/image/705662647"
                 }
             ]
         }
