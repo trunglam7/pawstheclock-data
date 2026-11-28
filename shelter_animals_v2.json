@@ -1,17 +1,17 @@
 {
-    "scraped_at": "2026-11-27T00:00:10.406346",
-    "total_animals": 57,
+    "scraped_at": "2026-11-28T00:00:02.799395",
+    "total_animals": 26,
     "shelters": {
         "western_riverside_county": {
             "shelter_name": "Western Riverside County/City Animal Shelter",
             "city": "Riverside",
             "state": "CA",
-            "total_animals": 24,
+            "total_animals": 26,
             "animals": [
                 {
                     "name": "Fren",
                     "breed": "Dogo Argentino",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 3",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 4",
                     "id": "A1948150",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1948150",
                     "image_link": "https://24petconnect.com/image/720145849"
@@ -19,7 +19,7 @@
                 {
                     "name": "Clarabelle",
                     "breed": "Bulldog",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical - severe hip dysplasia and orthopedic abnormalities in the hind paws. Can you help? Transferdas@rivco.Org | Days Out: 8",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical - severe hip dysplasia and orthopedic abnormalities in the hind paws. Can you help? Transferdas@rivco.Org | Days Out: 9",
                     "id": "A1947542",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1947542",
                     "image_link": "https://24petconnect.com/image/720070100"
@@ -27,7 +27,7 @@
                 {
                     "name": "Hogan",
                     "breed": "Alaskan Husky",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Parvo positive needs immediate exit transferdas@rivco.Org | Days Out: 9",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Parvo positive needs immediate exit transferdas@rivco.Org | Days Out: 10",
                     "id": "A1947170",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1947170",
                     "image_link": "https://24petconnect.com/image/718990980"
@@ -35,7 +35,7 @@
                 {
                     "name": "Vinny",
                     "breed": "TERRIER",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Urgent medical geriatric can you help? Transferdas@rivco.Org | Days Out: 9",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Urgent medical geriatric can you help? Transferdas@rivco.Org | Days Out: 10",
                     "id": "A0986548",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A0986548",
                     "image_link": "https://24petconnect.com/image/718737668"
@@ -43,7 +43,7 @@
                 {
                     "name": "Tootsie",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 10",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 11",
                     "id": "A1947100",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1947100",
                     "image_link": "https://24petconnect.com/image/719002347"
@@ -51,7 +51,7 @@
                 {
                     "name": "Thor",
                     "breed": "Cane Corso",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: ***Deadline. Must exit shelter by 5pm tue 12/1*** old fracture can you help? Transferdas@rivco.Org | Days Out: 13",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: ***Deadline. Must exit shelter by 5pm tue 12/1*** old fracture can you help? Transferdas@rivco.Org | Days Out: 14",
                     "id": "A1946585",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1946585",
                     "image_link": "https://24petconnect.com/image/720101996"
@@ -59,7 +59,7 @@
                 {
                     "name": "Muttias",
                     "breed": "Siberian Husky",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Severe medical needs immediate exit transferdas@rivco.Org | Days Out: 15",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Severe medical needs immediate exit transferdas@rivco.Org | Days Out: 16",
                     "id": "A1946282",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1946282",
                     "image_link": "https://24petconnect.com/image/719009338"
@@ -67,7 +67,7 @@
                 {
                     "name": "Blu",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 18",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 19",
                     "id": "A1898929",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1898929",
                     "image_link": "https://24petconnect.com/image/718978142"
@@ -75,7 +75,7 @@
                 {
                     "name": "Budd",
                     "breed": "SHEPHERD",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Parvo exposed needs immediate exit transferdas@rivco.Org | Days Out: 28",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Parvo exposed needs immediate exit transferdas@rivco.Org | Days Out: 29",
                     "id": "A1944478",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1944478",
                     "image_link": "https://24petconnect.com/image/715051791"
@@ -83,7 +83,7 @@
                 {
                     "name": "Athena",
                     "breed": "Labrador Retriever",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: Behavior. Can you help? Transferdas@rivco.Org | Days Out: 29",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: Behavior. Can you help? Transferdas@rivco.Org | Days Out: 30",
                     "id": "A1828310",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1828310",
                     "image_link": "https://24petconnect.com/image/717777695"
@@ -91,7 +91,7 @@
                 {
                     "name": "Maddox",
                     "breed": "German Shepherd Dog",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: Behavior - can you help? Transferdas@rivco.Org | Days Out: 30",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: Behavior - can you help? Transferdas@rivco.Org | Days Out: 31",
                     "id": "A1922718",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1922718",
                     "image_link": "https://24petconnect.com/image/717094259"
@@ -99,7 +99,7 @@
                 {
                     "name": "Sasha",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm thur 12/3*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 32",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm thur 12/3*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 33",
                     "id": "A1896416",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1896416",
                     "image_link": "https://24petconnect.com/image/720070133"
@@ -107,7 +107,7 @@
                 {
                     "name": "Hoss",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm wed 12/2*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 34",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm wed 12/2*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 35",
                     "id": "A1943606",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1943606",
                     "image_link": "https://24petconnect.com/image/720070122"
@@ -115,7 +115,7 @@
                 {
                     "name": "Kelly Clarkson",
                     "breed": "Siberian Husky",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm wed 12/2*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 37",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm wed 12/2*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 38",
                     "id": "A1943034",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1943034",
                     "image_link": "https://24petconnect.com/image/719683387"
@@ -123,7 +123,7 @@
                 {
                     "name": "Mimi",
                     "breed": "Labrador Retriever",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm thur 12/3*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 44",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm thur 12/3*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 45",
                     "id": "A1941934",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1941934",
                     "image_link": "https://24petconnect.com/image/714552013"
@@ -131,7 +131,7 @@
                 {
                     "name": "Lulu",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm tue 12/1*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 45",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm tue 12/1*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 46",
                     "id": "A1598412",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1598412",
                     "image_link": "https://24petconnect.com/image/718716992"
@@ -139,7 +139,7 @@
                 {
                     "name": "Gunner",
                     "breed": "German Shepherd Dog",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 48",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: Medical can you help? Transferdas@rivco.Org | Days Out: 49",
                     "id": "A1941336",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1941336",
                     "image_link": "https://24petconnect.com/image/717094243"
@@ -147,7 +147,7 @@
                 {
                     "name": "Roxy",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: ***Deadline. Must exit shelter by tuesday 12/1 5pm*** medical - recurring nasal discharge, persistent numerous swollen lns and nodules around neck. Can you help? Transferdas@rivco.Org | Days Out: 55",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: ***Deadline. Must exit shelter by tuesday 12/1 5pm*** medical - recurring nasal discharge, persistent numerous swollen lns and nodules around neck. Can you help? Transferdas@rivco.Org | Days Out: 56",
                     "id": "A1399425",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1399425",
                     "image_link": "https://24petconnect.com/image/716373246"
@@ -155,7 +155,7 @@
                 {
                     "name": "Titan",
                     "breed": "SHEPHERD",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm thur 12/3*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 66",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm thur 12/3*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 67",
                     "id": "A1938490",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938490",
                     "image_link": "https://24petconnect.com/image/712317748"
@@ -163,7 +163,7 @@
                 {
                     "name": "Odin",
                     "breed": "SHEPHERD",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm wed 12/2*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 69",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm wed 12/2*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 70",
                     "id": "A1938199",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938199",
                     "image_link": "https://24petconnect.com/image/713167484"
@@ -171,7 +171,7 @@
                 {
                     "name": "Edward",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by tuesday 12/1 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 70",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by tuesday 12/1 5pm*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 71",
                     "id": "A1938058",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1938058",
                     "image_link": "https://24petconnect.com/image/710488214"
@@ -179,7 +179,7 @@
                 {
                     "name": "Max",
                     "breed": "Siberian Husky",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: In and out of shelter since 4.20.26 Ask about me. Can you help ? Transferdas@rivco.Org | Days Out: 87",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: In and out of shelter since 4.20.26 Ask about me. Can you help ? Transferdas@rivco.Org | Days Out: 88",
                     "id": "A1806817",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1806817",
                     "image_link": "https://24petconnect.com/image/715541938"
@@ -187,7 +187,7 @@
                 {
                     "name": "Storm",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: Behavior. Can you help? Transferdas@rivco.Org | Days Out: 106",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: Behavior. Can you help? Transferdas@rivco.Org | Days Out: 107",
                     "id": "A1931968",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1931968",
                     "image_link": "https://24petconnect.com/image/711805553"
@@ -195,290 +195,26 @@
                 {
                     "name": "Pegasus",
                     "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: ***Deadline. Must exit shelter by 5pm tue 12/1*** medical - healing wounds on neck/face. Can you help? Transferdas@rivco.Org | Days Out: 115",
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: MEDICAL | Comments: ***Deadline. Must exit shelter by 5pm tue 12/1*** medical - healing wounds on neck/face. Can you help? Transferdas@rivco.Org | Days Out: 116",
                     "id": "A1930841",
                     "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1930841",
                     "image_link": "https://24petconnect.com/image/708134667"
-                }
-            ]
-        },
-        "coachella_valley": {
-            "shelter_name": "Coachella Valley Animal Campus",
-            "city": "Thousand Palms",
-            "state": "CA",
-            "total_animals": 17,
-            "animals": [
-                {
-                    "name": "Champ",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Champ is not doing well in shelter environment. Can you help Champ? Needs immediate exit. Cvacrescue@rivco.Org | Days Out: 15",
-                    "id": "A1946339",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1946339",
-                    "image_link": "https://24petconnect.com/image/718725411"
                 },
                 {
-                    "name": "Poppy",
-                    "breed": "SHEPHERD",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Poppy is not doing well in shelter environment. Can you help Poppy? Cvacrescue@rivco.Org | Days Out: 22",
-                    "id": "A1944062",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1944062",
-                    "image_link": "https://24petconnect.com/image/719514032"
-                },
-                {
-                    "name": "Sweetie",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Sweetie is not doing well in shelter environment. Can you help Sweetie? Needs immediate exit. Cvacrescue@rivco.Org | Days Out: 31",
-                    "id": "A1943988",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1943988",
-                    "image_link": "https://24petconnect.com/image/716602900"
-                },
-                {
-                    "name": "Benji",
-                    "breed": "German Shepherd Dog",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Benji has a documented bite history. Needs immediate exit. Can you help? Cvacrescue@rivco.Org | Days Out: 37",
-                    "id": "A1943096",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1943096",
-                    "image_link": "https://24petconnect.com/image/714616213"
-                },
-                {
-                    "name": "Saturn",
-                    "breed": "Weimaraner",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Saturn has a documented bite history. Needs immediate exit. Can you help Saturn? Cvacrescue@rivco.Org | Days Out: 48",
-                    "id": "A1936766",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1936766",
-                    "image_link": "https://24petconnect.com/image/714587531"
-                },
-                {
-                    "name": "Celeste",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Celeste? Celeste is not doing well in shelter environment. Celeste is unable to be co-housed. Needs immediate exit. Cvacrescue@rivco.Org | Days Out: 49",
-                    "id": "A1941214",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1941214",
-                    "image_link": "https://24petconnect.com/image/714231093"
-                },
-                {
-                    "name": "Vinny",
-                    "breed": "German Shepherd Dog",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Vinny is not doing well in shelter environment. Can you help Vinny? Cvacrescue@rivco.Org | Days Out: 52",
-                    "id": "A1932477",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1932477",
-                    "image_link": "https://24petconnect.com/image/710716827"
-                },
-                {
-                    "name": "Seal",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Seal is not doing well in shelter environment. Can you help Seal? Cvacrescue@rivco.Org | Days Out: 57",
-                    "id": "A1938102",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1938102",
-                    "image_link": "https://24petconnect.com/image/717778840"
-                },
-                {
-                    "name": "Flinn",
-                    "breed": "German Shepherd Dog",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Flinn is not doing well in shelter environment. Can you help Flinn? Needs immediate exit. Cvacrescue@rivco.Org | Days Out: 57",
-                    "id": "A1940001",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1940001",
-                    "image_link": "https://24petconnect.com/image/717201644"
-                },
-                {
-                    "name": "Goliath",
+                    "name": "Sammy",
                     "breed": "Labrador Retriever",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Goliath? He is not doing well in shelter/kennel environment Goliath needs help from a dedicated adopter or rescue. Cvacrescue@rivco.Org | Days Out: 59",
-                    "id": "A1939537",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1939537",
-                    "image_link": "https://24petconnect.com/image/713872726"
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: *Pending pick up* ***deadline. Must exit shelter by 5pm thur 11/19*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 129",
+                    "id": "A1929034",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1929034",
+                    "image_link": "https://24petconnect.com/image/709410442"
                 },
                 {
-                    "name": "Hopper",
-                    "breed": "Siberian Husky",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Hopper is not doing well in shelter environment. Can you help Hopper? Cvacrescue@rivco.Org | Days Out: 66",
-                    "id": "A1938554",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1938554",
-                    "image_link": "https://24petconnect.com/image/711071933"
-                },
-                {
-                    "name": "Goomba",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Goomba? Goomba is currently kenneled alone he needs help from a dedicated adopter or rescue. Cvacrescue@rivco.Org | Days Out: 66",
-                    "id": "A1926114",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1926114",
-                    "image_link": "https://24petconnect.com/image/719496908"
-                },
-                {
-                    "name": "Rosie",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Rosie? Rosie needs help from a dedicated adopter or rescue. Cvacrescue@rivco.Org | Days Out: 92",
-                    "id": "A1934509",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1934509",
-                    "image_link": "https://24petconnect.com/image/719996432"
-                },
-                {
-                    "name": "Apollo",
+                    "name": "Lily",
                     "breed": "SHEPHERD",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Can you help Apollo? Apollo is not doing well in shelter/kennel environment. Apollo is looking for a dedicated adopter or rescue. Cvacrescue@rivco.Org | Days Out: 98",
-                    "id": "A1896703",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1896703",
-                    "image_link": "https://24petconnect.com/image/706992350"
-                },
-                {
-                    "name": "Bronco",
-                    "breed": "SHEPHERD",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help Bronco? Bronco is not doing well in shelter/kennel environment. Cvacrescue@rivco.Org | Days Out: 147",
-                    "id": "A1926110",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1926110",
-                    "image_link": "https://24petconnect.com/image/719996431"
-                },
-                {
-                    "name": "Ivy",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: SPACE | Comments: Can you help Ivy? Ivy needs help from a dedicated adopter or rescue. Ivy is not doing well in shelter environment. Cvacrescue@rivco.Org | Days Out: 196",
-                    "id": "A1917166",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1917166",
-                    "image_link": "https://24petconnect.com/image/710156325"
-                },
-                {
-                    "name": "Tommy Pickles",
-                    "breed": "Bull Terrier",
-                    "comments": "Located At: Coachella Shelter Kennel | Substatus: BEHAVIOR | Comments: Can you help tommy? Tommy needs help finding immediate placement through adoption or rescue. Tommy has a documented bite history. Cvacrescue@rivco.Org | Days Out: 310",
-                    "id": "A1896701",
-                    "profile_link": "https://24Petconnect.com/RVSDPublicCVAC/Details/RVSD1/A1896701",
-                    "image_link": "https://24petconnect.com/image/717572117"
-                }
-            ]
-        },
-        "san_jacinto_valley": {
-            "shelter_name": "San Jacinto Valley Animal Campus",
-            "city": "San Jacinto",
-            "state": "CA",
-            "total_animals": 16,
-            "animals": [
-                {
-                    "name": "Clover",
-                    "breed": "Mastiff",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Clover is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 8",
-                    "id": "A1947458",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1947458",
-                    "image_link": "https://24petconnect.com/image/719025522"
-                },
-                {
-                    "name": "Madame",
-                    "breed": "Bulldog",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/02/26 by 5pm** Madame de maintenon is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 8",
-                    "id": "A1947493",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1947493",
-                    "image_link": "https://24petconnect.com/image/719984212"
-                },
-                {
-                    "name": "Beau",
-                    "breed": "Australian Cattle Dog",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/02/26 by 5pm** Beau is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 13",
-                    "id": "A1946626",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1946626",
-                    "image_link": "https://24petconnect.com/image/719999074"
-                },
-                {
-                    "name": "Onyx",
-                    "breed": "Boxer",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/01/26 by 5pm** Onyx is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 17",
-                    "id": "A1946142",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1946142",
-                    "image_link": "https://24petconnect.com/image/719141004"
-                },
-                {
-                    "name": "Drake",
-                    "breed": "German Shepherd Dog",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/24/26 by 5pm** Drake is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 18",
-                    "id": "A1945951",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945951",
-                    "image_link": "https://24petconnect.com/image/718154857"
-                },
-                {
-                    "name": "Orpheus",
-                    "breed": "Border Collie",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/01/26 by 5pm** Orpheus is not doing well in the shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 22",
-                    "id": "A1945558",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945558",
-                    "image_link": "https://24petconnect.com/image/718921337"
-                },
-                {
-                    "name": "Bones",
-                    "breed": "German Shepherd Dog",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 11/24/26 by 5pm** Bones is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 24",
-                    "id": "A1944985",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1944985",
-                    "image_link": "https://24petconnect.com/image/718344080"
-                },
-                {
-                    "name": "Cranberry",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/02/26 by 5pm** Cranberry has a documented bite history. Needs immediate exit. Can you help? Sjrescue@rivco.Org sjrescue@rivco.Org | Days Out: 24",
-                    "id": "A1945090",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1945090",
-                    "image_link": "https://24petconnect.com/image/718176191"
-                },
-                {
-                    "name": "Betty",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/01/26 by 5pm** Betty is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 27",
-                    "id": "A1944714",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1944714",
-                    "image_link": "https://24petconnect.com/image/718335957"
-                },
-                {
-                    "name": "Dynamite",
-                    "breed": "SHEPHERD",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: BEHAVIOR | Comments: **Deadline to exit shelter 12/02/26 by 5pm** Dynamite is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 31",
-                    "id": "A1936276",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1936276",
-                    "image_link": "https://24petconnect.com/image/714431169"
-                },
-                {
-                    "name": "Chapo",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/02/26 by 5pm** Chapo is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 33",
-                    "id": "A1943681",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1943681",
-                    "image_link": "https://24petconnect.com/image/719228521"
-                },
-                {
-                    "name": "Bronx",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/01/26 by 5pm** Bronx is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 35",
-                    "id": "A1943428",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1943428",
-                    "image_link": "https://24petconnect.com/image/716602901"
-                },
-                {
-                    "name": "Sophee",
-                    "breed": "SHEPHERD",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Sophee is parvo exposed. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 39",
-                    "id": "A1942607",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942607",
-                    "image_link": "https://24petconnect.com/image/712961708"
-                },
-                {
-                    "name": "Zuri",
-                    "breed": "Labrador Retriever",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: MEDICAL | Comments: Zuri is a mom nursing puppies, can you help? Sjrescue@rivco.Org | Days Out: 40",
-                    "id": "A1942522",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1942522",
-                    "image_link": "https://24petconnect.com/image/712874965"
-                },
-                {
-                    "name": "Asher",
-                    "breed": "Pit Bull Terrier",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/01/26 by 5pm** Asher is unable to be cohoused. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 52",
-                    "id": "A1940571",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1940571",
-                    "image_link": "https://24petconnect.com/image/717972756"
-                },
-                {
-                    "name": "Sir",
-                    "breed": "German Shepherd Dog",
-                    "comments": "Located At: San Jacinto Shelter Kennel | Substatus: SPACE | Comments: **Deadline to exit shelter 12/01/26 by 5pm** Sir is not doing well in shelter environment. Needs immediate exit. Can you help? Sjrescue@rivco.Org | Days Out: 78",
-                    "id": "A1936706",
-                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD3/A1936706",
-                    "image_link": "https://24petconnect.com/image/709495709"
+                    "comments": "Located At: Riverside Shelter Kennel | Substatus: BEHAVIOR | Comments: ***Deadline. Must exit shelter by 5pm thur 12/3*** behavior. Can you help? Transferdas@rivco.Org | Days Out: 149",
+                    "id": "A1925739",
+                    "profile_link": "https://24Petconnect.com/RVSDPublic/Details/RVSD/A1925739",
+                    "image_link": "https://24petconnect.com/image/720072830"
                 }
             ]
         }
